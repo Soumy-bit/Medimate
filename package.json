@@ -1,0 +1,17 @@
+{
+  "name": "medimate-fullstack",
+  "version": "2.0.0",
+  "description": "Fullstack Medication Management and Health Companion App with SQLite Database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "medimate",
+    "healthcare",
+    "sqlite",
+    "fullstack"
+  ],
+  "author": "MediMate Team",
+  "license": "MIT"
+}

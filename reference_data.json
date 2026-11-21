@@ -1,0 +1,3353 @@
+{
+  "meddb": [
+    {
+      "id": "paracetamol",
+      "name": "Paracetamol",
+      "aliases": [
+        "acetaminophen",
+        "dolo",
+        "crocin",
+        "calpol",
+        "tylenol",
+        "pacimol",
+        "pyigesic",
+        "sumo l"
+      ],
+      "verified": true,
+      "summary": "Paracetamol is a widely used painkiller and antipyretic that reduces fever and relieves mild-to-moderate aches without upsetting the stomach.",
+      "usedFor": [
+        "Headaches and migraines",
+        "Fever and cold symptoms",
+        "Toothache and dental pain",
+        "Musculoskeletal pain",
+        "Mild osteoarthritis pain"
+      ],
+      "warnings": [
+        "Do not exceed 4,000 mg in 24 hours to prevent severe, irreversible liver toxicity.",
+        "Check ingredients on other cold/flu remedies to prevent accidental paracetamol overdose.",
+        "Use with extreme caution in chronic alcohol dependency or pre-existing liver disease.",
+        "Generally considered the safest analgesic option in pregnancy and breastfeeding."
+      ],
+      "urgent": [
+        "Signs of accidental overdose: nausea, vomiting, right upper-abdominal pain, or jaundice (yellowing skin/eyes). Seek emergency help immediately.",
+        "Severe allergic reaction: hives, difficulty breathing, or facial swelling."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Paracetamol Overview",
+          "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/"
+        },
+        {
+          "label": "MedlinePlus: Acetaminophen",
+          "url": "https://medlineplus.gov/druginfo/meds/a681004.html"
+        }
+      ]
+    },
+    {
+      "id": "ibuprofen",
+      "name": "Ibuprofen",
+      "aliases": [
+        "brufen",
+        "advil",
+        "nurofen",
+        "ibugesic",
+        "motrin"
+      ],
+      "verified": true,
+      "summary": "Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID) that eases pain, reduces inflammation, and brings down high temperatures.",
+      "usedFor": [
+        "Period pain (dysmenorrhea)",
+        "Dental pain",
+        "Sprains, strains, and sports injuries",
+        "Arthritis and joint swelling",
+        "Fever and headaches"
+      ],
+      "warnings": [
+        "Always take with or directly after food to protect the stomach lining.",
+        "Avoid if you have active stomach ulcers, GI bleeding, or severe heart, kidney, or liver failure.",
+        "May worsen asthma in individuals with aspirin-sensitive respiratory disease.",
+        "Do not take during the third trimester of pregnancy."
+      ],
+      "urgent": [
+        "Black tarry stools, coughing up blood, or severe stomach cramps (signs of internal bleeding).",
+        "Shortness of breath, chest pain, or sudden ankle swelling."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Ibuprofen for adults",
+          "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/"
+        },
+        {
+          "label": "MedlinePlus: Ibuprofen",
+          "url": "https://medlineplus.gov/druginfo/meds/a682159.html"
+        }
+      ]
+    },
+    {
+      "id": "ibuprofen-paracetamol",
+      "name": "Ibuprofen + Paracetamol",
+      "aliases": [
+        "combiflam",
+        "ibugesic plus",
+        "flexon"
+      ],
+      "verified": true,
+      "summary": "A synergistic combination analgesic combining an NSAID (ibuprofen) and a central antipyretic (paracetamol) for acute pain and swelling.",
+      "usedFor": [
+        "Severe toothache and post-dental procedures",
+        "Acute musculoskeletal injuries",
+        "Fever accompanied by severe body aches",
+        "Joint and soft-tissue inflammation"
+      ],
+      "warnings": [
+        "Never take additional paracetamol or ibuprofen tablets while taking this combination.",
+        "Must be taken after meals to minimize gastric irritation.",
+        "Not recommended for prolonged use unless directed by a physician."
+      ],
+      "urgent": [
+        "Vomiting blood or coffee-ground material, severe black stools, or severe dizziness.",
+        "Severe skin peeling or widespread rash."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Combining painkillers",
+          "url": "https://www.nhs.uk/conditions/nsaids/"
+        }
+      ]
+    },
+    {
+      "id": "diclofenac",
+      "name": "Diclofenac",
+      "aliases": [
+        "voveran",
+        "voltaren",
+        "dynapar",
+        "cataflam"
+      ],
+      "verified": true,
+      "summary": "Diclofenac is a potent NSAID used to treat acute and chronic pain and inflammatory conditions affecting bones and joints.",
+      "usedFor": [
+        "Rheumatoid arthritis and osteoarthritis",
+        "Ankylosing spondylitis",
+        "Acute gout flare-ups",
+        "Post-operative orthopedic pain",
+        "Kidney stone colic"
+      ],
+      "warnings": [
+        "Carries higher cardiovascular and gastrointestinal risks than ibuprofen; use lowest effective dose for shortest duration.",
+        "Take strictly with food or antacids.",
+        "Contraindicated in active peptic ulcer disease and ischemic heart disease."
+      ],
+      "urgent": [
+        "Severe chest pressure, signs of stroke (facial drooping, slurred speech), or dark/bloody stools."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Diclofenac",
+          "url": "https://www.nhs.uk/medicines/diclofenac/"
+        }
+      ]
+    },
+    {
+      "id": "aceclofenac",
+      "name": "Aceclofenac",
+      "aliases": [
+        "zerodol",
+        "hifenac",
+        "acemiz",
+        "movace"
+      ],
+      "verified": true,
+      "summary": "Aceclofenac is an oral NSAID with selective COX-2 affinity, offering potent joint pain relief with relatively improved gastric tolerance.",
+      "usedFor": [
+        "Osteoarthritis of knee, hip, or spine",
+        "Rheumatoid arthritis",
+        "Lower back pain and sciatica",
+        "Dental and post-surgical pain"
+      ],
+      "warnings": [
+        "Take after meals. Avoid concurrent use of other NSAIDs or anticoagulants without medical supervision.",
+        "Monitor blood pressure and kidney function if taking long term.",
+        "Not advised during pregnancy or lactation."
+      ],
+      "urgent": [
+        "Persistent burning upper belly pain, blood in vomit, or sudden wheezing."
+      ],
+      "sources": [
+        {
+          "label": "DailyMed: Aceclofenac Reference",
+          "url": "https://dailymed.nlm.nih.gov/"
+        }
+      ]
+    },
+    {
+      "id": "aceclofenac-paracetamol",
+      "name": "Aceclofenac + Paracetamol",
+      "aliases": [
+        "zerodol-p",
+        "hifenac-p",
+        "acemiz-plus",
+        "zerodol p",
+        "hifenac p"
+      ],
+      "verified": true,
+      "summary": "A widely prescribed dual-action analgesic combining aceclofenac and paracetamol for rapid relief of pain and inflammatory fever.",
+      "usedFor": [
+        "Acute lower back ache",
+        "Post-extraction toothache",
+        "Sprains, tendonitis, and joint pain",
+        "Fever associated with painful inflammation"
+      ],
+      "warnings": [
+        "Do not combine with any cold medicine or cough syrup that contains paracetamol.",
+        "Always take with water after a solid meal."
+      ],
+      "urgent": [
+        "Signs of liver distress (yellowing eyes, deep nausea) or dark black stools."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Pain relief guidelines",
+          "url": "https://www.nhs.uk/conditions/nsaids/"
+        }
+      ]
+    },
+    {
+      "id": "naproxen",
+      "name": "Naproxen",
+      "aliases": [
+        "aleve",
+        "naprosyn",
+        "xenobid"
+      ],
+      "verified": true,
+      "summary": "Naproxen is an effective long-acting NSAID that provides 12-hour relief from joint stiffness, inflammation, and chronic pain.",
+      "usedFor": [
+        "Osteoarthritis and rheumatoid arthritis",
+        "Acute gout attacks",
+        "Severe menstrual cramps",
+        "Tendonitis and bursitis"
+      ],
+      "warnings": [
+        "Take with milk or meals to prevent stomach irritation.",
+        "Avoid if you have history of heart failure or stomach ulcers."
+      ],
+      "urgent": [
+        "Chest tightness, swelling in legs or feet, or unexplained bruising."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Naproxen",
+          "url": "https://www.nhs.uk/medicines/naproxen/"
+        }
+      ]
+    },
+    {
+      "id": "mefenamic-acid",
+      "name": "Mefenamic Acid",
+      "aliases": [
+        "meftal",
+        "meftal-spas",
+        "ponstan"
+      ],
+      "verified": true,
+      "summary": "Mefenamic acid is an NSAID specifically favored for uterine and spasmodic pelvic pain by suppressing prostaglandin synthesis.",
+      "usedFor": [
+        "Primary dysmenorrhea (painful periods)",
+        "Heavy menstrual bleeding (menorrhagia)",
+        "Abdominal colic and cramping (when combined with dicyclomine)",
+        "Dental pain"
+      ],
+      "warnings": [
+        "Limit treatment duration to 7 days unless specifically instructed otherwise.",
+        "Take with meals. Avoid if taking blood-thinners like warfarin."
+      ],
+      "urgent": [
+        "Sudden severe stomach pain, vomiting blood, or skin rash with blistering."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Mefenamic acid",
+          "url": "https://www.nhs.uk/medicines/mefenamic-acid/"
+        }
+      ]
+    },
+    {
+      "id": "aspirin",
+      "name": "Aspirin (Acetylsalicylic Acid)",
+      "aliases": [
+        "ecosprin",
+        "disprin",
+        "bayer",
+        "low-dose aspirin"
+      ],
+      "verified": true,
+      "summary": "Low-dose aspirin (75-150 mg) acts as an antiplatelet agent to prevent blood clots in cardiovascular disease, while higher doses relieve pain and fever.",
+      "usedFor": [
+        "Secondary prevention of heart attacks and stroke",
+        "Post-stent or bypass surgery maintenance",
+        "Angina management",
+        "Acute migraine or headache"
+      ],
+      "warnings": [
+        "Never give aspirin to children or teenagers under 16 due to the risk of Reye's syndrome (fatal brain/liver swelling).",
+        "Increases bleeding risk; notify surgeons and dentists before procedures.",
+        "Take after meals to minimize mucosal stomach erosion."
+      ],
+      "urgent": [
+        "Coughing up blood, blood in urine, prolonged nosebleeds, or sudden black stools."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Low-dose aspirin",
+          "url": "https://www.nhs.uk/medicines/low-dose-aspirin/"
+        }
+      ]
+    },
+    {
+      "id": "tramadol",
+      "name": "Tramadol",
+      "aliases": [
+        "ultram",
+        "tramacip",
+        "contramal"
+      ],
+      "verified": true,
+      "summary": "Tramadol is a centrally acting opioid analgesic used for moderate-to-severe acute or chronic pain when simple painkillers are inadequate.",
+      "usedFor": [
+        "Post-surgical recovery pain",
+        "Severe orthopedic trauma or fracture pain",
+        "Cancer-related pain",
+        "Severe chronic neuropathic pain"
+      ],
+      "warnings": [
+        "Strict prescription-only controlled substance; carry potential for dependence and tolerance.",
+        "May cause dizziness and drowsiness; avoid driving or operating machinery.",
+        "Risk of serotonin syndrome when combined with SSRI/SNRI antidepressants."
+      ],
+      "urgent": [
+        "Extreme drowsiness, slow or shallow breathing, seizures, or loss of consciousness."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Tramadol",
+          "url": "https://www.nhs.uk/medicines/tramadol/"
+        }
+      ]
+    },
+    {
+      "id": "amoxicillin",
+      "name": "Amoxicillin",
+      "aliases": [
+        "mox",
+        "novamox",
+        "amoxil"
+      ],
+      "verified": true,
+      "summary": "Amoxicillin is a broad-spectrum penicillin-type antibiotic used to eliminate bacterial infections of the chest, ears, throat, and urinary tract.",
+      "usedFor": [
+        "Pneumonia and chest infections",
+        "Otitis media (middle ear infection)",
+        "Tonsillitis and sinusitis",
+        "Dental abscesses",
+        "UTIs"
+      ],
+      "warnings": [
+        "Always complete the full prescribed course even if you feel completely better.",
+        "Strictly contraindicated in individuals with a known penicillin allergy.",
+        "May reduce the effectiveness of oral combined contraceptive pills if vomiting occurs."
+      ],
+      "urgent": [
+        "Anaphylaxis: swelling of lips, throat, or tongue, difficulty breathing, or severe widespread hives.",
+        "Severe watery diarrhea with stomach cramps (Clostridioides difficile colitis)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Amoxicillin",
+          "url": "https://www.nhs.uk/medicines/amoxicillin/"
+        }
+      ]
+    },
+    {
+      "id": "amoxicillin-clavulanic-acid",
+      "name": "Amoxicillin + Clavulanic Acid",
+      "aliases": [
+        "augmentin",
+        "clavam",
+        "moxclav",
+        "augmentin 625",
+        "clavam 625"
+      ],
+      "verified": true,
+      "summary": "A potent combination antibiotic containing amoxicillin and clavulanate potassium (a beta-lactamase inhibitor) that overcomes antibiotic-resistant bacteria.",
+      "usedFor": [
+        "Bacterial sinusitis and persistent ear infections",
+        "Lower respiratory tract infections (bronchitis, pneumonia)",
+        "Complicated skin and soft-tissue infections",
+        "Animal and human bite wounds",
+        "Dental infections"
+      ],
+      "warnings": [
+        "Take at the start of a meal to enhance absorption and reduce nausea or diarrhea.",
+        "Contraindicated in penicillin allergy and history of amoxicillin-associated jaundice/hepatic dysfunction.",
+        "Finish the entire prescribed course."
+      ],
+      "urgent": [
+        "Yellowing of skin or eyes (drug-induced cholestatic jaundice), severe diarrhea, or sudden wheezing."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Co-amoxiclav (Augmentin)",
+          "url": "https://www.nhs.uk/medicines/co-amoxiclav/"
+        }
+      ]
+    },
+    {
+      "id": "azithromycin",
+      "name": "Azithromycin",
+      "aliases": [
+        "azithral",
+        "azee",
+        "zithromax",
+        "azithral 500",
+        "azee 500"
+      ],
+      "verified": true,
+      "summary": "Azithromycin is a macrolide antibiotic with a long half-life that prevents bacteria from multiplying, typically dosed once daily for 3 to 5 days.",
+      "usedFor": [
+        "Atypical chest infections and pneumonia",
+        "Strep throat and tonsillitis",
+        "Chlamydia and genital tract infections",
+        "Lyme disease and traveler's diarrhea"
+      ],
+      "warnings": [
+        "Take at least 1 hour before or 2 hours after meals (or as instructed by packet).",
+        "May cause QT interval prolongation on ECG; exercise caution in pre-existing cardiac arrhythmia.",
+        "Do not take simultaneously with magnesium- or aluminum-containing antacids."
+      ],
+      "urgent": [
+        "Irregular or racing heartbeat, severe dizziness, fainting, or persistent severe watery diarrhea."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Azithromycin",
+          "url": "https://www.nhs.uk/medicines/azithromycin/"
+        }
+      ]
+    },
+    {
+      "id": "ciprofloxacin",
+      "name": "Ciprofloxacin",
+      "aliases": [
+        "ciplox",
+        "cifran",
+        "cipro"
+      ],
+      "verified": true,
+      "summary": "Ciprofloxacin is a broad-spectrum fluoroquinolone antibiotic targeting severe or resistant bacterial infections of the gut, kidneys, and bones.",
+      "usedFor": [
+        "Complicated urinary tract infections (pyelonephritis)",
+        "Bacterial gastrointestinal infections and typhoid fever",
+        "Bone and joint infections",
+        "Skin and prostatitis infections"
+      ],
+      "warnings": [
+        "Black box warning: increases the risk of tendonitis and tendon rupture (especially Achilles tendon).",
+        "Avoid dairy products, calcium-fortified juice, or mineral supplements within 2 hours of dose.",
+        "Causes increased sensitivity to sunlight (photosensitivity); wear sunscreen."
+      ],
+      "urgent": [
+        "Sudden sharp pain or swelling in the back of the ankle/heel (Achilles tendon rupture).",
+        "Numbness, burning, or tingling in hands or feet (peripheral neuropathy)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Ciprofloxacin",
+          "url": "https://www.nhs.uk/medicines/ciprofloxacin/"
+        }
+      ]
+    },
+    {
+      "id": "cefixime",
+      "name": "Cefixime",
+      "aliases": [
+        "taxim-o",
+        "zifi",
+        "omnicef",
+        "taxim o"
+      ],
+      "verified": true,
+      "summary": "Cefixime is an oral third-generation cephalosporin antibiotic that destroys bacterial cell walls in common respiratory and urinary infections.",
+      "usedFor": [
+        "Acute bacterial exacerbations of chronic bronchitis",
+        "Otitis media",
+        "Pharyngitis and tonsillitis",
+        "Uncomplicated UTIs",
+        "Typhoid fever"
+      ],
+      "warnings": [
+        "Use caution if you have an extreme, anaphylactic allergy to penicillins (10% cross-reactivity).",
+        "Complete the entire course prescribed."
+      ],
+      "urgent": [
+        "Severe skin peeling, blistering rash, or bloody watery stools."
+      ],
+      "sources": [
+        {
+          "label": "MedlinePlus: Cefixime",
+          "url": "https://medlineplus.gov/druginfo/meds/a690007.html"
+        }
+      ]
+    },
+    {
+      "id": "cefuroxime",
+      "name": "Cefuroxime",
+      "aliases": [
+        "ceftum",
+        "zinnat",
+        "zinacef"
+      ],
+      "verified": true,
+      "summary": "Cefuroxime is a second-generation cephalosporin antibiotic active against both gram-positive and gram-negative respiratory and skin pathogens.",
+      "usedFor": [
+        "Bronchitis and pneumonia",
+        "Ear and sinus infections",
+        "Skin and soft tissue infections",
+        "Early Lyme disease"
+      ],
+      "warnings": [
+        "Take tablets with or right after food for optimal absorption and to avoid upset stomach.",
+        "Do not crush tablets (they have a bitter taste)."
+      ],
+      "urgent": [
+        "Swelling of face or throat, hives, or severe watery diarrhea."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Cefuroxime",
+          "url": "https://www.nhs.uk/medicines/cefuroxime/"
+        }
+      ]
+    },
+    {
+      "id": "doxycycline",
+      "name": "Doxycycline",
+      "aliases": [
+        "doxypal",
+        "vibramycin",
+        "doxt-sl"
+      ],
+      "verified": true,
+      "summary": "Doxycycline is a versatile tetracycline antibiotic used for acne, chest infections, dental conditions, tick-borne diseases, and malaria prevention.",
+      "usedFor": [
+        "Moderate to severe acne vulgaris and rosacea",
+        "Chlamydia and pelvic infections",
+        "Lyme disease and rickettsial typhus",
+        "Malaria prophylaxis"
+      ],
+      "warnings": [
+        "Always take with a full glass of water while sitting upright or standing; do NOT lie down for 30 minutes to prevent painful esophageal ulcers.",
+        "Causes heightened sunburn risk; protect skin from UV exposure.",
+        "Avoid in children under 8 and pregnant women due to permanent tooth discoloration."
+      ],
+      "urgent": [
+        "Severe chest pain or difficulty swallowing (esophageal irritation), or intense headache with visual disturbances."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Doxycycline",
+          "url": "https://www.nhs.uk/medicines/doxycycline/"
+        }
+      ]
+    },
+    {
+      "id": "metronidazole",
+      "name": "Metronidazole",
+      "aliases": [
+        "flagyl",
+        "metrogyl"
+      ],
+      "verified": true,
+      "summary": "Metronidazole is an antimicrobial and antiprotozoal drug highly active against anaerobic bacterial and parasitic infections of the gut, teeth, and pelvis.",
+      "usedFor": [
+        "Dental abscesses and gum disease",
+        "Amoebic dysentery and giardiasis",
+        "Bacterial vaginosis and trichomoniasis",
+        "Post-surgical abdominal infections"
+      ],
+      "warnings": [
+        "STRICT WARNING: Do NOT drink any alcohol during treatment and for 48 hours after; triggers severe flushing, throbbing headache, vomiting, and palpitations (disulfiram-like reaction).",
+        "May cause a harmless dark/reddish-brown discoloration of urine and a metallic taste in the mouth."
+      ],
+      "urgent": [
+        "Seizures, numbness or tingling in hands or feet, or persistent confusion."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Metronidazole",
+          "url": "https://www.nhs.uk/medicines/metronidazole/"
+        }
+      ]
+    },
+    {
+      "id": "nitrofurantoin",
+      "name": "Nitrofurantoin",
+      "aliases": [
+        "niftran",
+        "macrodantin",
+        "macrobid"
+      ],
+      "verified": true,
+      "summary": "Nitrofurantoin is an antibiotic specifically formulated to treat and prevent acute lower urinary tract infections (bladder cystitis).",
+      "usedFor": [
+        "Acute uncomplicated cystitis (bladder infection)",
+        "Recurrent UTI prevention"
+      ],
+      "warnings": [
+        "Take with meals or milk to improve absorption and avoid nausea.",
+        "Harmlessly turns urine dark yellow or brownish in color.",
+        "Contraindicated in significant kidney impairment (eGFR < 45 mL/min) and late-stage pregnancy."
+      ],
+      "urgent": [
+        "Shortness of breath, persistent dry cough, or chest pain (pulmonary reaction), or numbness/tingling in toes/fingers."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Nitrofurantoin",
+          "url": "https://www.nhs.uk/medicines/nitrofurantoin/"
+        }
+      ]
+    },
+    {
+      "id": "fluconazole",
+      "name": "Fluconazole",
+      "aliases": [
+        "diflucan",
+        "forcan",
+        "zocon"
+      ],
+      "verified": true,
+      "summary": "Fluconazole is an antifungal triazole medication that eliminates fungal and yeast infections throughout the body.",
+      "usedFor": [
+        "Vaginal thrush (candidiasis)",
+        "Oral thrush (in mouth and throat)",
+        "Fungal nail and skin infections",
+        "Cryptococcal meningitis in immune-compromised patients"
+      ],
+      "warnings": [
+        "Often taken as a single one-off dose for simple vaginal thrush.",
+        "Avoid in pregnancy unless advised by a specialist for life-threatening infection.",
+        "Interacts with numerous medications metabolized by CYP450 liver enzymes (e.g. warfarin, phenytoin)."
+      ],
+      "urgent": [
+        "Severe blistering rash (Stevens-Johnson syndrome), dark urine, or yellow skin/eyes."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Fluconazole",
+          "url": "https://www.nhs.uk/medicines/fluconazole/"
+        }
+      ]
+    },
+    {
+      "id": "amlodipine",
+      "name": "Amlodipine",
+      "aliases": [
+        "amlong",
+        "norvasc",
+        "amlokind",
+        "stamlo"
+      ],
+      "verified": true,
+      "summary": "Amlodipine is a calcium channel blocker that relaxes arterial blood vessel walls, lowering high blood pressure and preventing angina chest pain.",
+      "usedFor": [
+        "High blood pressure (hypertension)",
+        "Chronic stable angina",
+        "Vasospastic (Prinzmetal's) angina",
+        "Coronary artery disease"
+      ],
+      "warnings": [
+        "Take regularly every day, even when feeling fine, to maintain safe blood pressure levels.",
+        "Common side effect is peripheral edema (painless swelling around ankles and lower legs).",
+        "Avoid grapefruit and grapefruit juice, which can raise amlodipine blood concentrations."
+      ],
+      "urgent": [
+        "Sudden severe dizziness upon standing, fainting, or chest pain worsening when starting therapy."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Amlodipine",
+          "url": "https://www.nhs.uk/medicines/amlodipine/"
+        }
+      ]
+    },
+    {
+      "id": "telmisartan",
+      "name": "Telmisartan",
+      "aliases": [
+        "telma",
+        "micardis",
+        "telmikind",
+        "telsar",
+        "telvas"
+      ],
+      "verified": true,
+      "summary": "Telmisartan is an Angiotensin II Receptor Blocker (ARB) that prevents arteries from constricting, protecting the heart and kidneys.",
+      "usedFor": [
+        "Hypertension (high blood pressure)",
+        "Cardiovascular risk reduction in patients over 55",
+        "Diabetic nephropathy protection"
+      ],
+      "warnings": [
+        "STRICT WARNING: Do NOT take if pregnant or planning to become pregnant; can cause serious injury or death to the developing fetus.",
+        "Can increase blood potassium levels (hyperkalemia); avoid potassium salt substitutes without medical advice.",
+        "Take once daily with or without food at the same time every day."
+      ],
+      "urgent": [
+        "Swelling of the lips, face, or tongue (angioedema), muscle weakness, or slow, irregular heartbeat."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Telmisartan",
+          "url": "https://www.nhs.uk/medicines/telmisartan/"
+        }
+      ]
+    },
+    {
+      "id": "losartan",
+      "name": "Losartan",
+      "aliases": [
+        "losar",
+        "repace",
+        "cozaar",
+        "losacar"
+      ],
+      "verified": true,
+      "summary": "Losartan is an ARB medication that widens blood vessels to lower blood pressure and protect kidney function in hypertensive diabetic patients.",
+      "usedFor": [
+        "High blood pressure",
+        "Stroke risk reduction in hypertension with left ventricular hypertrophy",
+        "Diabetic kidney disease in type 2 diabetes"
+      ],
+      "warnings": [
+        "Strictly prohibited during pregnancy (causes fetal renal damage).",
+        "Stay well-hydrated to avoid sudden lightheadedness.",
+        "Periodic kidney function and serum potassium blood tests are recommended."
+      ],
+      "urgent": [
+        "Signs of angioedema (swollen throat, difficulty swallowing), sudden fainting, or profound weakness."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Losartan",
+          "url": "https://www.nhs.uk/medicines/losartan/"
+        }
+      ]
+    },
+    {
+      "id": "metoprolol",
+      "name": "Metoprolol",
+      "aliases": [
+        "metolar",
+        "betaloc",
+        "seloken",
+        "lopressor",
+        "toprol-xl"
+      ],
+      "verified": true,
+      "summary": "Metoprolol is a cardioselective beta-blocker that slows heart rate, lowers blood pressure, and reduces the workload on the heart.",
+      "usedFor": [
+        "High blood pressure",
+        "Angina pectoris (chest pain)",
+        "Post-heart attack myocardial protection",
+        "Heart failure (extended release form)",
+        "Migraine prevention"
+      ],
+      "warnings": [
+        "NEVER stop taking metoprolol abruptly; sudden cessation can cause a rebound spike in blood pressure or trigger a heart attack.",
+        "May mask warning signs of low blood sugar (hypoglycemia) such as racing pulse or tremors in diabetics.",
+        "Use with extreme caution in active asthma or severe COPD."
+      ],
+      "urgent": [
+        "Resting pulse dropping below 50 beats per minute with severe lightheadedness, or sudden breathlessness."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Metoprolol",
+          "url": "https://www.nhs.uk/medicines/metoprolol/"
+        }
+      ]
+    },
+    {
+      "id": "atenolol",
+      "name": "Atenolol",
+      "aliases": [
+        "aten",
+        "tenormin"
+      ],
+      "verified": true,
+      "summary": "Atenolol is a beta-blocker that protects the heart by lowering pulse rate and blood pressure and regulating cardiac rhythms.",
+      "usedFor": [
+        "Hypertension",
+        "Angina management",
+        "Cardiac arrhythmias (irregular heartbeats)",
+        "Myocardial infarction recovery"
+      ],
+      "warnings": [
+        "Do not stop suddenly without doctor guidance.",
+        "May cause cold fingers and toes by reducing peripheral blood circulation."
+      ],
+      "urgent": [
+        "Wheezing, shortness of breath, or sudden fainting."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Atenolol",
+          "url": "https://www.nhs.uk/medicines/atenolol/"
+        }
+      ]
+    },
+    {
+      "id": "ramipril",
+      "name": "Ramipril",
+      "aliases": [
+        "cardace",
+        "altace"
+      ],
+      "verified": true,
+      "summary": "Ramipril is an ACE inhibitor that relaxes arteries and lowers blood pressure while improving survival after heart attacks and heart failure.",
+      "usedFor": [
+        "Hypertension",
+        "Heart failure management",
+        "Post-myocardial infarction recovery",
+        "Diabetic nephropathy"
+      ],
+      "warnings": [
+        "A dry, persistent, tickly cough is a well-known side effect; consult your doctor if it becomes intolerable.",
+        "Strictly contraindicated in pregnancy.",
+        "First few doses can cause dizziness; take at bedtime when starting."
+      ],
+      "urgent": [
+        "Swelling of the face, tongue, or throat causing breathing difficulties (angioedema - call 112/emergency)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Ramipril",
+          "url": "https://www.nhs.uk/medicines/ramipril/"
+        }
+      ]
+    },
+    {
+      "id": "furosemide",
+      "name": "Furosemide",
+      "aliases": [
+        "lasix",
+        "frusil"
+      ],
+      "verified": true,
+      "summary": "Furosemide is a potent loop diuretic (water tablet) that encourages the kidneys to expel excess salt and fluid in urine.",
+      "usedFor": [
+        "Congestive heart failure edema",
+        "Pulmonary edema (fluid in the lungs)",
+        "Swelling due to kidney or liver disease (ascites)",
+        "Resistant hypertension"
+      ],
+      "warnings": [
+        "Best taken in the morning (or early afternoon) to avoid frequent night-time bathroom trips.",
+        "Can deplete potassium and sodium; doctors often monitor electrolytes or prescribe potassium supplements.",
+        "Drink sufficient fluids unless restricted by your heart specialist."
+      ],
+      "urgent": [
+        "Severe muscle cramps, extreme thirst, confusion, or ringing in the ears (tinnitus/ototoxicity)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Furosemide",
+          "url": "https://www.nhs.uk/medicines/furosemide/"
+        }
+      ]
+    },
+    {
+      "id": "spironolactone",
+      "name": "Spironolactone",
+      "aliases": [
+        "aldactone",
+        "spiroctan"
+      ],
+      "verified": true,
+      "summary": "Spironolactone is a potassium-sparing diuretic and aldosterone antagonist that rids the body of excess fluid while preserving potassium.",
+      "usedFor": [
+        "Heart failure with reduced ejection fraction",
+        "Liver cirrhosis with ascites (abdominal fluid)",
+        "Resistant hypertension",
+        "Hyperaldosteronism"
+      ],
+      "warnings": [
+        "Retains potassium in the body; avoid high-potassium salt substitutes and potassium supplements.",
+        "Can cause breast tenderness or enlargement (gynecomastia) in men."
+      ],
+      "urgent": [
+        "Severe muscle weakness, tingling sensations, or abnormal heart rhythm from hyperkalemia."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Spironolactone",
+          "url": "https://www.nhs.uk/medicines/spironolactone/"
+        }
+      ]
+    },
+    {
+      "id": "clopidogrel",
+      "name": "Clopidogrel",
+      "aliases": [
+        "plavix",
+        "clopitab",
+        "deplatt"
+      ],
+      "verified": true,
+      "summary": "Clopidogrel is an antiplatelet medicine that prevents blood platelets from sticking together to form dangerous arterial blood clots.",
+      "usedFor": [
+        "Coronary stent protection (preventing in-stent thrombosis)",
+        "Following recent heart attack or stroke",
+        "Peripheral arterial disease",
+        "Acute coronary syndrome (often paired with aspirin)"
+      ],
+      "warnings": [
+        "Takes longer for cuts to stop bleeding; be cautious with sharp objects.",
+        "Inform dentists and surgeons you take clopidogrel before any surgical procedure.",
+        "Omeprazole and esomeprazole can reduce clopidogrel efficacy; pantoprazole is usually preferred."
+      ],
+      "urgent": [
+        "Black tarry stools, vomit that looks like coffee grounds, or signs of stroke."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Clopidogrel",
+          "url": "https://www.nhs.uk/medicines/clopidogrel/"
+        }
+      ]
+    },
+    {
+      "id": "atorvastatin",
+      "name": "Atorvastatin",
+      "aliases": [
+        "atorva",
+        "lipitor",
+        "storvas",
+        "tonact"
+      ],
+      "verified": true,
+      "summary": "Atorvastatin is an HMG-CoA reductase inhibitor (statin) that lowers LDL ('bad') cholesterol and triglycerides while raising HDL ('good') cholesterol.",
+      "usedFor": [
+        "Primary hypercholesterolemia",
+        "Prevention of cardiovascular events (heart attack, stroke)",
+        "Atherosclerosis management in diabetics"
+      ],
+      "warnings": [
+        "Take once daily at any time of day (evening is traditional for lipid production).",
+        "Avoid drinking large quantities of grapefruit juice (more than 1.2 liters daily).",
+        "Contraindicated in active liver disease and pregnancy."
+      ],
+      "urgent": [
+        "Unexplained muscle pain, tenderness, or weakness accompanied by fever or cola-colored urine (rhabdomyolysis)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Atorvastatin",
+          "url": "https://www.nhs.uk/medicines/atorvastatin/"
+        }
+      ]
+    },
+    {
+      "id": "rosuvastatin",
+      "name": "Rosuvastatin",
+      "aliases": [
+        "rosuvas",
+        "crestor",
+        "rozavel",
+        "novastat"
+      ],
+      "verified": true,
+      "summary": "Rosuvastatin is a high-intensity statin with hydrophilic properties that potently reduces LDL cholesterol and slows arterial plaque progression.",
+      "usedFor": [
+        "Severe hyperlipidemia and familial hypercholesterolemia",
+        "Cardiovascular event reduction in high-risk patients",
+        "Post-angioplasty care"
+      ],
+      "warnings": [
+        "Take once daily with or without food at any hour.",
+        "Patients of Asian ancestry often start at lower doses (5 mg) due to higher plasma drug concentrations."
+      ],
+      "urgent": [
+        "Severe unexplained muscle breakdown, dark tea-colored urine, or yellowing skin."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Rosuvastatin",
+          "url": "https://www.nhs.uk/medicines/rosuvastatin/"
+        }
+      ]
+    },
+    {
+      "id": "metformin",
+      "name": "Metformin",
+      "aliases": [
+        "glycomet",
+        "glucophage",
+        "gluformin",
+        "glycomet-gp",
+        "glycomet 500",
+        "glycomet sr"
+      ],
+      "verified": true,
+      "summary": "Metformin is the gold-standard first-line biguanide medicine for type 2 diabetes that decreases glucose production in the liver and improves insulin sensitivity.",
+      "usedFor": [
+        "Type 2 diabetes mellitus management",
+        "Polycystic ovary syndrome (PCOS)",
+        "Prediabetes prevention"
+      ],
+      "warnings": [
+        "Always take with or immediately after meals to minimize common nausea, flatulence, and loose stools.",
+        "Temporarily pause before iodinated contrast scans or major surgeries under physician direction.",
+        "Avoid heavy alcohol binge drinking to prevent lactic acidosis."
+      ],
+      "urgent": [
+        "Lactic acidosis signs: severe muscle cramps, hyperventilation, extreme drowsiness, and severe stomach discomfort (rare medical emergency)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Metformin",
+          "url": "https://www.nhs.uk/medicines/metformin/"
+        }
+      ]
+    },
+    {
+      "id": "glimepiride",
+      "name": "Glimepiride",
+      "aliases": [
+        "amaryl",
+        "glimstar",
+        "zoryl"
+      ],
+      "verified": true,
+      "summary": "Glimepiride is a second-generation sulfonylurea that stimulates pancreatic beta cells to release more natural insulin into the bloodstream.",
+      "usedFor": [
+        "Type 2 diabetes blood sugar control (often combined with metformin)"
+      ],
+      "warnings": [
+        "Always take with or immediately before the first main meal of the day.",
+        "Carries risk of hypoglycemia (low blood sugar); never skip meals after taking this medicine.",
+        "Keep fast-acting glucose tablets, candy, or sweet juice readily accessible."
+      ],
+      "urgent": [
+        "Severe hypoglycemia symptoms: cold clammy sweat, shakiness, confusion, slurred speech, or loss of consciousness."
+      ],
+      "sources": [
+        {
+          "label": "MedlinePlus: Glimepiride",
+          "url": "https://medlineplus.gov/druginfo/meds/a696018.html"
+        }
+      ]
+    },
+    {
+      "id": "sitagliptin",
+      "name": "Sitagliptin",
+      "aliases": [
+        "januvia",
+        "zita",
+        "istavel"
+      ],
+      "verified": true,
+      "summary": "Sitagliptin is a DPP-4 inhibitor (gliptin) that increases incretin hormones, prompting the pancreas to produce more insulin only when blood sugar is elevated.",
+      "usedFor": [
+        "Type 2 diabetes blood sugar regulation (weight-neutral, low risk of hypoglycemia)"
+      ],
+      "warnings": [
+        "Take once daily with or without food.",
+        "Dose adjustment is required if kidney function is significantly impaired."
+      ],
+      "urgent": [
+        "Severe, persistent abdominal pain that may radiate to the back, with vomiting (acute pancreatitis)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Sitagliptin",
+          "url": "https://www.nhs.uk/medicines/sitagliptin/"
+        }
+      ]
+    },
+    {
+      "id": "vildagliptin",
+      "name": "Vildagliptin",
+      "aliases": [
+        "galvus",
+        "jalra",
+        "zomelis"
+      ],
+      "verified": true,
+      "summary": "Vildagliptin is an oral DPP-4 inhibitor that boosts natural insulin secretion and curbs glucagon release in response to meals.",
+      "usedFor": [
+        "Type 2 diabetes management (monotherapy or dual therapy with metformin)"
+      ],
+      "warnings": [
+        "Typically dosed twice daily (morning and evening) when paired with metformin.",
+        "Periodic liver enzyme monitoring is recommended."
+      ],
+      "urgent": [
+        "Persistent nausea, upper abdominal tenderness, or dark urine."
+      ],
+      "sources": [
+        {
+          "label": "DailyMed: Vildagliptin",
+          "url": "https://dailymed.nlm.nih.gov/"
+        }
+      ]
+    },
+    {
+      "id": "dapagliflozin",
+      "name": "Dapagliflozin",
+      "aliases": [
+        "forxiga",
+        "dapa",
+        "oxra"
+      ],
+      "verified": true,
+      "summary": "Dapagliflozin is an SGLT2 inhibitor that causes the kidneys to filter out excess glucose through the urine while offering heart failure and kidney protection.",
+      "usedFor": [
+        "Type 2 diabetes mellitus",
+        "Heart failure with reduced or preserved ejection fraction",
+        "Chronic kidney disease progression slowing"
+      ],
+      "warnings": [
+        "Drink plenty of water throughout the day to avoid dehydration and urinary tract infections.",
+        "Maintain good personal genital hygiene to prevent fungal/yeast genital infections (thrush).",
+        "Risk of euglycemic diabetic ketoacidosis during acute illness or surgical fasting."
+      ],
+      "urgent": [
+        "Deep rapid breathing, fruity breath, nausea, and vomiting despite normal blood sugar readings (ketoacidosis)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Dapagliflozin",
+          "url": "https://www.nhs.uk/medicines/dapagliflozin/"
+        }
+      ]
+    },
+    {
+      "id": "semaglutide",
+      "name": "Semaglutide",
+      "aliases": [
+        "ozempic",
+        "rybelsus",
+        "wegovy"
+      ],
+      "verified": true,
+      "summary": "Semaglutide is a GLP-1 receptor agonist that slows gastric emptying, stimulates insulin production, curtails appetite, and reduces cardiovascular mortality.",
+      "usedFor": [
+        "Type 2 diabetes glycemic control",
+        "Chronic weight management",
+        "Cardiovascular risk reduction in diabetic patients"
+      ],
+      "warnings": [
+        "Rybelsus (oral tablet) MUST be swallowed on an empty stomach first thing in the morning with no more than 120 mL (half cup) of plain water, waiting 30 minutes before food or other meds.",
+        "Ozempic/Wegovy are injected subcutaneously once weekly.",
+        "Common side effects include mild nausea, constipation, or diarrhea that usually wane over time."
+      ],
+      "urgent": [
+        "Severe continuous abdominal pain that radiates to the back (acute pancreatitis) or vision changes."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Semaglutide",
+          "url": "https://www.nhs.uk/medicines/semaglutide/"
+        }
+      ]
+    },
+    {
+      "id": "pantoprazole",
+      "name": "Pantoprazole",
+      "aliases": [
+        "pan",
+        "pantocid",
+        "pantop",
+        "protonix",
+        "pan 40"
+      ],
+      "verified": true,
+      "summary": "Pantoprazole is a proton pump inhibitor (PPI) that decreases the amount of hydrochloric acid produced by the stomach lining.",
+      "usedFor": [
+        "Gastroesophageal reflux disease (GERD) and heartburn",
+        "Gastric and duodenal ulcers",
+        "Erosive esophagitis",
+        "Zollinger-Ellison syndrome",
+        "Stomach protection during NSAID therapy"
+      ],
+      "warnings": [
+        "Take 30 to 60 minutes before breakfast on an empty stomach for maximum acid suppression.",
+        "Swallow tablets whole; do not crush, chew, or split.",
+        "Prolonged long-term use (years) may impair magnesium and vitamin B12 absorption."
+      ],
+      "urgent": [
+        "Severe watery diarrhea with fever (C. difficile), joint pain with butterfly facial rash, or unexpected fractures."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Pantoprazole",
+          "url": "https://www.nhs.uk/medicines/pantoprazole/"
+        }
+      ]
+    },
+    {
+      "id": "pantoprazole-domperidone",
+      "name": "Pantoprazole + Domperidone",
+      "aliases": [
+        "pan-d",
+        "pantocid-d",
+        "pan d",
+        "pantop-d"
+      ],
+      "verified": true,
+      "summary": "A combination of an acid-reducing PPI (pantoprazole) and a prokinetic anti-nausea agent (domperidone) that speeds gastric emptying and stops reflux.",
+      "usedFor": [
+        "GERD with nausea or vomiting",
+        "Non-ulcer dyspepsia and bloating",
+        "Gastroparesis with acid reflux"
+      ],
+      "warnings": [
+        "Take 30 minutes before morning meal on an empty stomach.",
+        "Domperidone should be used at the lowest effective dose for the shortest duration due to rare cardiac QT considerations."
+      ],
+      "urgent": [
+        "Irregular heart rhythm, palpitations, or fainting."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Acid reflux guide",
+          "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/"
+        }
+      ]
+    },
+    {
+      "id": "omeprazole",
+      "name": "Omeprazole",
+      "aliases": [
+        "omez",
+        "prilosec",
+        "omecip",
+        "omez 20"
+      ],
+      "verified": true,
+      "summary": "Omeprazole is a widely trusted proton pump inhibitor that treats acid reflux, indigestion, and stomach ulcers by blocking acid-producing pumps.",
+      "usedFor": [
+        "Heartburn and GERD",
+        "Peptic ulcer healing and H. pylori eradication",
+        "Gastritis"
+      ],
+      "warnings": [
+        "Take in the morning 30-60 minutes before breakfast.",
+        "Can interact with clopidogrel; consult your doctor if taking blood thinners."
+      ],
+      "urgent": [
+        "Severe stomach cramps, persistent diarrhea, or sudden dizziness."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Omeprazole",
+          "url": "https://www.nhs.uk/medicines/omeprazole/"
+        }
+      ]
+    },
+    {
+      "id": "rabeprazole",
+      "name": "Rabeprazole",
+      "aliases": [
+        "razo",
+        "rabeloc",
+        "aciphex",
+        "razo 20"
+      ],
+      "verified": true,
+      "summary": "Rabeprazole is a rapid-onset proton pump inhibitor that provides fast, sustained suppression of gastric acid for reflux and ulcers.",
+      "usedFor": [
+        "Acute GERD and heartburn",
+        "Duodenal and gastric ulcers",
+        "Helicobacter pylori eradication regimens"
+      ],
+      "warnings": [
+        "Take in the morning before food. Do not chew or crush the enteric-coated tablet."
+      ],
+      "urgent": [
+        "Severe skin rash with peeling, or persistent bloody/watery stool."
+      ],
+      "sources": [
+        {
+          "label": "MedlinePlus: Rabeprazole",
+          "url": "https://medlineplus.gov/druginfo/meds/a699060.html"
+        }
+      ]
+    },
+    {
+      "id": "esomeprazole",
+      "name": "Esomeprazole",
+      "aliases": [
+        "nexium",
+        "sompraz",
+        "nexpro"
+      ],
+      "verified": true,
+      "summary": "Esomeprazole is the pure S-isomer of omeprazole, delivering higher bioavailability and potent acid suppression for severe acid reflux.",
+      "usedFor": [
+        "Severe erosive esophagitis",
+        "Zollinger-Ellison syndrome",
+        "GERD symptom relief",
+        "NSAID-induced ulcer prevention"
+      ],
+      "warnings": [
+        "Take at least 1 hour before meals. Swallow whole or disperse in non-carbonated water if using openable capsules."
+      ],
+      "urgent": [
+        "Chest pain spreading to neck/arm (rule out heart attack first!), or severe dizziness."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Esomeprazole",
+          "url": "https://www.nhs.uk/medicines/esomeprazole/"
+        }
+      ]
+    },
+    {
+      "id": "ondansetron",
+      "name": "Ondansetron",
+      "aliases": [
+        "emeset",
+        "ondem",
+        "zofran",
+        "vomikind"
+      ],
+      "verified": true,
+      "summary": "Ondansetron is a 5-HT3 receptor antagonist that blocks serotonin signals in the brain and gut to prevent nausea and vomiting.",
+      "usedFor": [
+        "Gastroenteritis-associated vomiting",
+        "Chemotherapy- and radiation-induced nausea",
+        "Post-operative nausea and vomiting (PONV)"
+      ],
+      "warnings": [
+        "Orally disintegrating tablets should be dissolved on the tongue without chewing.",
+        "Common side effect is temporary headache and constipation."
+      ],
+      "urgent": [
+        "Sudden chest pain, heart palpitations, or severe dizziness (QT prolongation)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Ondansetron",
+          "url": "https://www.nhs.uk/medicines/ondansetron/"
+        }
+      ]
+    },
+    {
+      "id": "loperamide",
+      "name": "Loperamide",
+      "aliases": [
+        "eldoper",
+        "imodium",
+        "lopamide"
+      ],
+      "verified": true,
+      "summary": "Loperamide slows down gut motility and bowel contractions, allowing more water to be absorbed and solidifying loose stools.",
+      "usedFor": [
+        "Short-term relief of acute diarrhea",
+        "Irritable bowel syndrome (IBS) diarrhea management",
+        "Ileostomy output reduction"
+      ],
+      "warnings": [
+        "Do NOT use if diarrhea contains blood, black stool, or high fever (seek medical testing for bacterial infection).",
+        "Drink plenty of oral rehydration fluids (ORS) to prevent dehydration.",
+        "Do not exceed recommended package limits (overuse can cause heart arrhythmias)."
+      ],
+      "urgent": [
+        "Swollen rigid abdomen, severe stomach cramps, or fainting."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Loperamide",
+          "url": "https://www.nhs.uk/medicines/loperamide/"
+        }
+      ]
+    },
+    {
+      "id": "cetirizine",
+      "name": "Cetirizine",
+      "aliases": [
+        "cetzine",
+        "okacet",
+        "alerid",
+        "zyrtec"
+      ],
+      "verified": true,
+      "summary": "Cetirizine is a non-drowsy second-generation antihistamine that relieves sneezing, itchy watery eyes, runny nose, and allergic hives.",
+      "usedFor": [
+        "Allergic rhinitis (hay fever)",
+        "Chronic idiopathic urticaria (itchy hives)",
+        "Dust and pet allergies",
+        "Allergic conjunctivitis"
+      ],
+      "warnings": [
+        "Take once daily with or without food.",
+        "While significantly less sedating than first-generation antihistamines, it can still cause mild drowsiness in some individuals.",
+        "Avoid combining with alcohol or sedatives."
+      ],
+      "urgent": [
+        "Swelling of the lips, face, or tongue, or difficulty breathing (anaphylaxis - emergency)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Cetirizine",
+          "url": "https://www.nhs.uk/medicines/cetirizine/"
+        }
+      ]
+    },
+    {
+      "id": "levocetirizine",
+      "name": "Levocetirizine",
+      "aliases": [
+        "levocet",
+        "vozet",
+        "xyzal"
+      ],
+      "verified": true,
+      "summary": "Levocetirizine is the active R-enantiomer of cetirizine, providing rapid, potent antihistamine relief at half the dose.",
+      "usedFor": [
+        "Seasonal and perennial allergic rhinitis",
+        "Persistent hives and allergic skin itching",
+        "Eczema flare-up itching"
+      ],
+      "warnings": [
+        "Often taken in the evening before bed.",
+        "Use caution if driving until you know how it affects your alertness."
+      ],
+      "urgent": [
+        "Difficulty urinating (urinary retention) or severe allergic reaction."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Levocetirizine",
+          "url": "https://www.nhs.uk/medicines/levocetirizine/"
+        }
+      ]
+    },
+    {
+      "id": "levocetirizine-montelukast",
+      "name": "Levocetirizine + Montelukast",
+      "aliases": [
+        "montair lc",
+        "montek lc",
+        "telekast l",
+        "montair-lc",
+        "montek-lc"
+      ],
+      "verified": true,
+      "summary": "A popular dual-action formulation combining an antihistamine and a leukotriene receptor blocker to treat allergic rhinitis and asthma symptoms.",
+      "usedFor": [
+        "Allergic rhinitis with nasal congestion",
+        "Seasonal allergies with wheezing or coughing",
+        "Chronic allergic bronchitis"
+      ],
+      "warnings": [
+        "Best taken in the evening.",
+        "Montelukast carries a precaution for neuropsychiatric events (mood swings, vivid dreams, anxiety); report any behavior changes to a doctor."
+      ],
+      "urgent": [
+        "Sudden severe mood changes, thoughts of self-harm, or severe hallucinations."
+      ],
+      "sources": [
+        {
+          "label": "FDA: Montelukast Safety",
+          "url": "https://www.fda.gov/drugs/drug-safety-and-availability/"
+        }
+      ]
+    },
+    {
+      "id": "fexofenadine",
+      "name": "Fexofenadine",
+      "aliases": [
+        "allegra",
+        "telfast",
+        "fexo"
+      ],
+      "verified": true,
+      "summary": "Fexofenadine is a truly non-sedating second-generation antihistamine that does not cross the blood-brain barrier.",
+      "usedFor": [
+        "Hay fever and pollen allergies",
+        "Chronic urticaria (allergic skin hives)",
+        "Itchy eyes and sneezing"
+      ],
+      "warnings": [
+        "Take with plain water only; avoid fruit juices (grapefruit, apple, orange) within 4 hours as they block absorption.",
+        "Does not cause drowsiness in the vast majority of users."
+      ],
+      "urgent": [
+        "Facial swelling or throat constriction."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Fexofenadine",
+          "url": "https://www.nhs.uk/medicines/fexofenadine/"
+        }
+      ]
+    },
+    {
+      "id": "salbutamol",
+      "name": "Salbutamol (Albuterol)",
+      "aliases": [
+        "asthalin",
+        "ventolin",
+        "proventil",
+        "asthalin inhaler"
+      ],
+      "verified": true,
+      "summary": "Salbutamol is a fast-acting short-acting beta-2 agonist (SABA) rescue bronchodilator that opens up airways within 5 minutes.",
+      "usedFor": [
+        "Relief of acute asthma attacks and bronchospasm",
+        "Exercise-induced asthma prevention",
+        "COPD breathlessness relief"
+      ],
+      "warnings": [
+        "This is a RESCUE inhaler; keep it with you at all times.",
+        "Can cause temporary hand shakiness (tremor) and mild heart palpitations.",
+        "If you need to use your rescue inhaler more than 2-3 times a week, consult your doctor about preventative controller inhalers."
+      ],
+      "urgent": [
+        "Your inhaler is NOT relieving your breathlessness, or you are struggling to speak a full sentence (call 112/108 immediately)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Salbutamol inhaler",
+          "url": "https://www.nhs.uk/medicines/salbutamol-inhaler/"
+        }
+      ]
+    },
+    {
+      "id": "budesonide-formoterol",
+      "name": "Budesonide + Formoterol",
+      "aliases": [
+        "foracort",
+        "symbicort",
+        "budamate"
+      ],
+      "verified": true,
+      "summary": "A combination controller inhaler containing an inhaled corticosteroid (budesonide) and a long-acting bronchodilator (formoterol) to prevent asthma and COPD attacks.",
+      "usedFor": [
+        "Maintenance and prevention of asthma",
+        "Severe COPD management",
+        "SMART maintenance and reliever therapy"
+      ],
+      "warnings": [
+        "Rinse your mouth with water and spit it out after every inhalation to prevent oral thrush (fungal infection) and hoarseness.",
+        "Use consistently every day as prescribed, even when feeling well."
+      ],
+      "urgent": [
+        "Sudden paradoxical bronchospasm (worsening wheezing immediately after inhaling)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Formoterol with budesonide",
+          "url": "https://www.nhs.uk/medicines/formoterol-and-budesonide/"
+        }
+      ]
+    },
+    {
+      "id": "escitalopram",
+      "name": "Escitalopram",
+      "aliases": [
+        "nexito",
+        "lexapro",
+        "cipralex",
+        "nexito 10"
+      ],
+      "verified": true,
+      "summary": "Escitalopram is a selective serotonin reuptake inhibitor (SSRI) that restores serotonin balance in the brain to treat depression and anxiety.",
+      "usedFor": [
+        "Major depressive disorder",
+        "Generalized anxiety disorder (GAD)",
+        "Panic disorder with or without agoraphobia",
+        "Social anxiety disorder"
+      ],
+      "warnings": [
+        "Typically takes 2 to 4 weeks of daily use before noticeable benefits appear; do not discontinue early.",
+        "Never stop abruptly to avoid withdrawal symptoms (dizziness, electric shock sensations, anxiety).",
+        "Do not combine with other serotonergic medications (tramadol, St John's wort, MAOIs)."
+      ],
+      "urgent": [
+        "Sudden emergence of suicidal thoughts or self-harm impulses, especially in young adults during the first weeks of treatment.",
+        "High fever, stiff muscles, confusion, and shivering (serotonin syndrome)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Escitalopram",
+          "url": "https://www.nhs.uk/medicines/escitalopram/"
+        }
+      ]
+    },
+    {
+      "id": "sertraline",
+      "name": "Sertraline",
+      "aliases": [
+        "serlift",
+        "zoloft",
+        "daxid"
+      ],
+      "verified": true,
+      "summary": "Sertraline is an SSRI antidepressant frequently chosen for its balanced efficacy and safety in depression, OCD, and post-traumatic stress.",
+      "usedFor": [
+        "Depressive illness",
+        "Obsessive-compulsive disorder (OCD)",
+        "Panic disorder",
+        "Post-traumatic stress disorder (PTSD)"
+      ],
+      "warnings": [
+        "Take once daily in the morning or evening with water.",
+        "Mild nausea or sleep disturbances are common in the first 1-2 weeks."
+      ],
+      "urgent": [
+        "New or worsening suicidal thoughts, severe restlessness, or sudden mania."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Sertraline",
+          "url": "https://www.nhs.uk/medicines/sertraline/"
+        }
+      ]
+    },
+    {
+      "id": "clonazepam",
+      "name": "Clonazepam",
+      "aliases": [
+        "clona",
+        "klonopin",
+        "rivotril",
+        "zapiz"
+      ],
+      "verified": true,
+      "summary": "Clonazepam is a long-acting benzodiazepine that enhances inhibitory GABA neurotransmission to calm seizures and acute panic.",
+      "usedFor": [
+        "Panic disorder with or without agoraphobia",
+        "Epileptic seizures and myoclonic jerks",
+        "Restless legs syndrome (short term)"
+      ],
+      "warnings": [
+        "Strict controlled prescription medication; carries high risk of physiological dependence and tolerance with prolonged use.",
+        "Causes marked drowsiness and impaired coordination; avoid alcohol completely.",
+        "Taper off gradually under strict medical supervision."
+      ],
+      "urgent": [
+        "Extreme respiratory depression, inability to stay awake, or profound confusion."
+      ],
+      "sources": [
+        {
+          "label": "MedlinePlus: Clonazepam",
+          "url": "https://medlineplus.gov/druginfo/meds/a682277.html"
+        }
+      ]
+    },
+    {
+      "id": "pregabalin",
+      "name": "Pregabalin",
+      "aliases": [
+        "lyrica",
+        "pregabid",
+        "maxgalin"
+      ],
+      "verified": true,
+      "summary": "Pregabalin modulates voltage-gated calcium channels in the central nervous system to quiet overactive pain signals and generalized anxiety.",
+      "usedFor": [
+        "Diabetic peripheral neuropathy",
+        "Post-herpetic neuralgia (shingles nerve pain)",
+        "Fibromyalgia",
+        "Generalized anxiety disorder"
+      ],
+      "warnings": [
+        "Common side effects include dizziness, sleepiness, and peripheral fluid retention.",
+        "Taper down slowly over at least 1 week when stopping."
+      ],
+      "urgent": [
+        "Swelling of the neck or face, thoughts of self-harm, or unexplained muscle pain with fever."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Pregabalin",
+          "url": "https://www.nhs.uk/medicines/pregabalin/"
+        }
+      ]
+    },
+    {
+      "id": "levothyroxine",
+      "name": "Levothyroxine",
+      "aliases": [
+        "thyronorm",
+        "eltroxin",
+        "thyrox",
+        "synthroid",
+        "thyronorm 50",
+        "thyronorm 100"
+      ],
+      "verified": true,
+      "summary": "Levothyroxine is a synthetic thyroxine (T4) hormone replacement medicine used to restore normal thyroid levels in hypothyroidism.",
+      "usedFor": [
+        "Underactive thyroid gland (hypothyroidism)",
+        "Goiter reduction",
+        "Thyroid cancer post-surgical management"
+      ],
+      "warnings": [
+        "CRITICAL: Take first thing in the morning on an empty stomach with a full glass of water, at least 30 to 60 minutes before breakfast, tea, or coffee.",
+        "Do NOT take calcium supplements, iron tablets, or antacids within 4 hours as they severely inhibit absorption.",
+        "Dose is strictly tailored by regular TSH blood test results."
+      ],
+      "urgent": [
+        "Chest pain, rapid or pounding heart rate (palpitations), extreme sweating, or tremors (signs of excess dose/hyperthyroidism)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Levothyroxine",
+          "url": "https://www.nhs.uk/medicines/levothyroxine/"
+        }
+      ]
+    },
+    {
+      "id": "prednisolone",
+      "name": "Prednisolone",
+      "aliases": [
+        "omnacortil",
+        "prelone",
+        "deltacortril"
+      ],
+      "verified": true,
+      "summary": "Prednisolone is an oral corticosteroid that rapidly suppresses excessive immune responses and severe inflammatory reactions.",
+      "usedFor": [
+        "Acute asthma and COPD exacerbations",
+        "Severe allergic reactions",
+        "Rheumatoid arthritis and lupus flares",
+        "Inflammatory bowel disease"
+      ],
+      "warnings": [
+        "Take in the morning with breakfast to avoid stomach upset and mimic the body's natural cortisol rhythm.",
+        "Never stop abruptly if taken for more than 3 weeks; requires gradual tapering to prevent adrenal insufficiency.",
+        "Can temporarily elevate blood sugar levels and blood pressure."
+      ],
+      "urgent": [
+        "Fever or signs of infection (steroids mask typical symptoms of infection), or severe upper abdominal pain."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Prednisolone",
+          "url": "https://www.nhs.uk/medicines/prednisolone/"
+        }
+      ]
+    },
+    {
+      "id": "cholecalciferol",
+      "name": "Cholecalciferol (Vitamin D3)",
+      "aliases": [
+        "calcirol",
+        "uprise-d3",
+        "d-rise",
+        "vitamin d3",
+        "vitamin d"
+      ],
+      "verified": true,
+      "summary": "Cholecalciferol is fat-soluble Vitamin D3 essential for intestinal calcium absorption, bone mineralization, and immune defense.",
+      "usedFor": [
+        "Vitamin D deficiency",
+        "Osteoporosis and osteopenia prevention",
+        "Rickets treatment",
+        "Bone and muscle weakness"
+      ],
+      "warnings": [
+        "Best taken with the largest meal of the day containing healthy fats (milk, yogurt, oil) to maximize absorption.",
+        "High-dose sachets/capsules (60,000 IU) are typically taken once weekly, not daily."
+      ],
+      "urgent": [
+        "Signs of hypercalcemia from massive overdose: severe nausea, vomiting, mental confusion, or extreme thirst."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Vitamin D",
+          "url": "https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/"
+        }
+      ]
+    },
+    {
+      "id": "calcium-vitamin-d3",
+      "name": "Calcium + Vitamin D3",
+      "aliases": [
+        "shelcal",
+        "calcimax",
+        "shelcal 500",
+        "cipcal"
+      ],
+      "verified": true,
+      "summary": "A foundational bone health supplement combining elemental calcium with Vitamin D3 to strengthen bone density and prevent fractures.",
+      "usedFor": [
+        "Osteoporosis management",
+        "Pregnancy and lactation calcium requirements",
+        "Post-menopausal bone health",
+        "Calcium deficiency"
+      ],
+      "warnings": [
+        "Take with meals to enhance absorption and minimize bloating.",
+        "Separate from iron supplements and thyroid hormone (levothyroxine) by at least 2 to 4 hours."
+      ],
+      "urgent": [
+        "Severe constipation or persistent kidney area pain (kidney stones from excess calcium)."
+      ],
+      "sources": [
+        {
+          "label": "MedlinePlus: Calcium and Vitamin D",
+          "url": "https://medlineplus.gov/ency/article/002062.htm"
+        }
+      ]
+    },
+    {
+      "id": "methylcobalamin",
+      "name": "Methylcobalamin (Vitamin B12)",
+      "aliases": [
+        "mecobalamin",
+        "neurobion",
+        "methycobal",
+        "vitamin b12",
+        "neurobion forte"
+      ],
+      "verified": true,
+      "summary": "Methylcobalamin is the active, neuro-available coenzyme form of Vitamin B12 required for red blood cell synthesis and nerve myelin maintenance.",
+      "usedFor": [
+        "Diabetic neuropathy and nerve pain/tingling",
+        "Pernicious and megaloblastic anemia",
+        "Strict vegetarian/vegan B12 deficiency",
+        "Fatigue and cognitive fog from B12 deficiency"
+      ],
+      "warnings": [
+        "Water-soluble vitamin; excess is safely excreted in urine.",
+        "May be taken with or without food."
+      ],
+      "urgent": [
+        "Extremely rare; seek advice if severe sudden allergic rash occurs."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Vitamin B12 and folate deficiency",
+          "url": "https://www.nhs.uk/conditions/vitamin-b12-deficiency/"
+        }
+      ]
+    },
+    {
+      "id": "clarithromycin",
+      "name": "Clarithromycin",
+      "aliases": [
+        "claribid",
+        "biaxin",
+        "klacid"
+      ],
+      "verified": true,
+      "summary": "Clarithromycin is a macrolide antibiotic used for respiratory tract infections, skin infections, and as part of combination therapy to cure H. pylori stomach ulcers.",
+      "usedFor": [
+        "Chest and sinus infections",
+        "Cellulitis and skin infections",
+        "H. pylori eradication",
+        "Strep pharyngitis"
+      ],
+      "warnings": [
+        "Take with or without food. May leave an unpleasant or bitter taste in the mouth.",
+        "Check with your pharmacist for drug interactions, especially with statins (pause simvastatin/atorvastatin during treatment) and blood thinners."
+      ],
+      "urgent": [
+        "Severe chest pain, palpitations, or fainting (arrhythmia risk)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Clarithromycin",
+          "url": "https://www.nhs.uk/medicines/clarithromycin/"
+        }
+      ]
+    },
+    {
+      "id": "cefpodoxime",
+      "name": "Cefpodoxime",
+      "aliases": [
+        "monocep",
+        "zedocef",
+        "doxcef",
+        "cefloc"
+      ],
+      "verified": true,
+      "summary": "Cefpodoxime is an advanced oral third-generation cephalosporin active against resistant upper and lower respiratory pathogens and urinary infections.",
+      "usedFor": [
+        "Bronchitis and pneumonia",
+        "Severe acute sinusitis",
+        "Skin infections",
+        "Urinary tract infections"
+      ],
+      "warnings": [
+        "Take with meals to enhance absorption. Complete the full prescribed course."
+      ],
+      "urgent": [
+        "Severe watery or bloody diarrhea, or rash with mouth sores."
+      ],
+      "sources": [
+        {
+          "label": "MedlinePlus: Cefpodoxime",
+          "url": "https://medlineplus.gov/druginfo/meds/a693025.html"
+        }
+      ]
+    },
+    {
+      "id": "ofloxacin-ornidazole",
+      "name": "Ofloxacin + Ornidazole",
+      "aliases": [
+        "o2",
+        "zenflox-oz",
+        "oflax-oz",
+        "o2 tablet"
+      ],
+      "verified": true,
+      "summary": "A combination of a broad-spectrum fluoroquinolone (ofloxacin) and an anaerobic protozoal inhibitor (ornidazole) for mixed gastrointestinal and pelvic infections.",
+      "usedFor": [
+        "Infectious diarrhea and dysentery",
+        "Dental and periodontal abscesses",
+        "Gynecological infections",
+        "Abdominal surgical infections"
+      ],
+      "warnings": [
+        "Do NOT consume alcohol while taking this medicine.",
+        "Stay hydrated with ORS."
+      ],
+      "urgent": [
+        "Tendon pain, swelling in heels, or sudden confusion."
+      ],
+      "sources": [
+        {
+          "label": "DailyMed: Ofloxacin",
+          "url": "https://dailymed.nlm.nih.gov/"
+        }
+      ]
+    },
+    {
+      "id": "levofloxacin",
+      "name": "Levofloxacin",
+      "aliases": [
+        "levoquine",
+        "loxof",
+        "levaquin",
+        "levomac"
+      ],
+      "verified": true,
+      "summary": "Levofloxacin is an advanced respiratory fluoroquinolone antibiotic with high tissue penetration for stubborn lung and sinus infections.",
+      "usedFor": [
+        "Community-acquired pneumonia",
+        "Acute pyelonephritis (kidney infection)",
+        "Severe chronic bronchitis flares",
+        "Prostatitis"
+      ],
+      "warnings": [
+        "Avoid mineral antacids, iron, or zinc within 2 hours of dose.",
+        "Rest if tendon soreness occurs."
+      ],
+      "urgent": [
+        "Sudden tendon rupture, severe joint pain, or hallucinations."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Levofloxacin",
+          "url": "https://www.nhs.uk/medicines/levofloxacin/"
+        }
+      ]
+    },
+    {
+      "id": "ceftriaxone",
+      "name": "Ceftriaxone",
+      "aliases": [
+        "monocef",
+        "rocephin"
+      ],
+      "verified": true,
+      "summary": "Ceftriaxone is a broad-spectrum third-generation cephalosporin injectable antibiotic used in hospitals and clinics for serious systemic bacterial infections.",
+      "usedFor": [
+        "Bacterial meningitis",
+        "Typhoid fever",
+        "Severe sepsis",
+        "Gonorrhea",
+        "Intra-abdominal infections"
+      ],
+      "warnings": [
+        "Administered intravenously or intramuscularly by trained healthcare professionals."
+      ],
+      "urgent": [
+        "Severe allergic anaphylactic reaction or sudden breathing difficulty."
+      ],
+      "sources": [
+        {
+          "label": "MedlinePlus: Ceftriaxone",
+          "url": "https://medlineplus.gov/druginfo/meds/a685032.html"
+        }
+      ]
+    },
+    {
+      "id": "clindamycin",
+      "name": "Clindamycin",
+      "aliases": [
+        "dalacin",
+        "clindac",
+        "cleocin"
+      ],
+      "verified": true,
+      "summary": "Clindamycin is a lincosamide antibiotic that halts bacterial protein production, highly effective against staphylococcal, streptococcal, and dental infections.",
+      "usedFor": [
+        "Deep dental abscesses",
+        "Bone and joint infections (osteomyelitis)",
+        "Severe acne and cellulitis",
+        "Aspiration pneumonia"
+      ],
+      "warnings": [
+        "Higher propensity for C. difficile-associated colitis; report persistent watery diarrhea immediately."
+      ],
+      "urgent": [
+        "Watery diarrhea more than 5 times a day with fever and belly cramps."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Clindamycin",
+          "url": "https://www.nhs.uk/medicines/clindamycin/"
+        }
+      ]
+    },
+    {
+      "id": "acyclovir",
+      "name": "Acyclovir (Aciclovir)",
+      "aliases": [
+        "zovirax",
+        "herperax",
+        "cyclovir"
+      ],
+      "verified": true,
+      "summary": "Acyclovir is an antiviral drug that blocks viral DNA replication to treat herpes simplex and varicella-zoster (shingles/chickenpox) infections.",
+      "usedFor": [
+        "Herpes zoster (shingles)",
+        "Cold sores (oral herpes)",
+        "Genital herpes outbreaks",
+        "Chickenpox in adults and high-risk patients"
+      ],
+      "warnings": [
+        "Start at the earliest tingling sign of an outbreak for maximum clinical benefit.",
+        "Drink plenty of water to maintain clear renal tubules."
+      ],
+      "urgent": [
+        "Severe confusion, hallucinations, or decreased urination."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Aciclovir",
+          "url": "https://www.nhs.uk/medicines/aciclovir/"
+        }
+      ]
+    },
+    {
+      "id": "terbinafine",
+      "name": "Terbinafine",
+      "aliases": [
+        "lamisil",
+        "sebifin",
+        "tyza"
+      ],
+      "verified": true,
+      "summary": "Terbinafine is an allylamine antifungal that accumulates in keratinized tissue (nails and skin) to eradicate dermatophyte fungal infections.",
+      "usedFor": [
+        "Fungal nail infections (onychomycosis)",
+        "Athlete's foot (tinea pedis)",
+        "Ringworm (tinea corporis)",
+        "Jock itch (tinea cruris)"
+      ],
+      "warnings": [
+        "Nail treatments often require several months of consistent therapy.",
+        "Report any taste disturbances or dark urine."
+      ],
+      "urgent": [
+        "Signs of liver injury: yellow eyes, loss of appetite, pale stools."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Terbinafine",
+          "url": "https://www.nhs.uk/medicines/terbinafine/"
+        }
+      ]
+    },
+    {
+      "id": "carvedilol",
+      "name": "Carvedilol",
+      "aliases": [
+        "carca",
+        "coreg",
+        "cardivas"
+      ],
+      "verified": true,
+      "summary": "Carvedilol is a dual non-selective beta and alpha-1 blocker that dilates blood vessels and lowers heart workload, proven to prolong survival in heart failure.",
+      "usedFor": [
+        "Heart failure with reduced ejection fraction (HFrEF)",
+        "Hypertension",
+        "Post-myocardial infarction with left ventricular dysfunction"
+      ],
+      "warnings": [
+        "Take with meals to slow absorption and reduce orthostatic dizziness.",
+        "Do not stop abruptly."
+      ],
+      "urgent": [
+        "Severe lightheadedness or pulse dropping under 50 beats per minute."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Carvedilol",
+          "url": "https://www.nhs.uk/medicines/carvedilol/"
+        }
+      ]
+    },
+    {
+      "id": "bisoprolol",
+      "name": "Bisoprolol",
+      "aliases": [
+        "concor",
+        "zebeta",
+        "corbis"
+      ],
+      "verified": true,
+      "summary": "Bisoprolol is a highly cardioselective beta-1 blocker used once daily to manage high blood pressure, angina, and heart failure.",
+      "usedFor": [
+        "Chronic stable heart failure",
+        "Hypertension",
+        "Angina pectoris"
+      ],
+      "warnings": [
+        "Take once daily in the morning.",
+        "May cause fatigue and cold extremities."
+      ],
+      "urgent": [
+        "Sudden worsening breathlessness or ankle swelling."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Bisoprolol",
+          "url": "https://www.nhs.uk/medicines/bisoprolol/"
+        }
+      ]
+    },
+    {
+      "id": "diltiazem",
+      "name": "Diltiazem",
+      "aliases": [
+        "dilzem",
+        "cardizem",
+        "tiazac"
+      ],
+      "verified": true,
+      "summary": "Diltiazem is a non-dihydropyridine calcium channel blocker that slows atrioventricular node conduction and relaxes coronary arteries.",
+      "usedFor": [
+        "Atrial fibrillation / flutter rate control",
+        "Angina pectoris prevention",
+        "Hypertension"
+      ],
+      "warnings": [
+        "Do not take with grapefruit juice.",
+        "Swallow extended-release tablets whole."
+      ],
+      "urgent": [
+        "Extremely slow heartbeat, fainting, or sudden swelling in feet."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Diltiazem",
+          "url": "https://www.nhs.uk/medicines/diltiazem/"
+        }
+      ]
+    },
+    {
+      "id": "torsemide",
+      "name": "Torsemide",
+      "aliases": [
+        "dytor",
+        "demadex",
+        "torsem"
+      ],
+      "verified": true,
+      "summary": "Torsemide is a long-acting loop diuretic with higher and more reliable bioavailability than furosemide for treating edema.",
+      "usedFor": [
+        "Edema from congestive heart failure",
+        "Chronic kidney disease swelling",
+        "Hepatic ascites"
+      ],
+      "warnings": [
+        "Take in the morning.",
+        "Monitor potassium and magnesium levels regularly."
+      ],
+      "urgent": [
+        "Severe muscle weakness or irregular heartbeat."
+      ],
+      "sources": [
+        {
+          "label": "MedlinePlus: Torsemide",
+          "url": "https://medlineplus.gov/druginfo/meds/a601212.html"
+        }
+      ]
+    },
+    {
+      "id": "chlorthalidone",
+      "name": "Chlorthalidone",
+      "aliases": [
+        "hygroton",
+        "thalizide"
+      ],
+      "verified": true,
+      "summary": "Chlorthalidone is a thiazide-like diuretic with an exceptionally long duration of action (48-72 hours) favored in cardiovascular guideline trials.",
+      "usedFor": [
+        "Primary hypertension",
+        "Edema management"
+      ],
+      "warnings": [
+        "Can lower sodium and potassium levels; doctors routinely check electrolyte panels."
+      ],
+      "urgent": [
+        "Severe muscle spasms or extreme confusion."
+      ],
+      "sources": [
+        {
+          "label": "MedlinePlus: Chlorthalidone",
+          "url": "https://medlineplus.gov/druginfo/meds/a682342.html"
+        }
+      ]
+    },
+    {
+      "id": "hydrochlorothiazide",
+      "name": "Hydrochlorothiazide",
+      "aliases": [
+        "aquazide",
+        "microzide",
+        "hctz"
+      ],
+      "verified": true,
+      "summary": "Hydrochlorothiazide is a widely prescribed thiazide water pill, frequently formulated in combination tablets with ARBs (e.g. Telma-H).",
+      "usedFor": [
+        "High blood pressure",
+        "Mild-to-moderate fluid retention"
+      ],
+      "warnings": [
+        "Take in the morning with food. Can increase sensitivity to sunlight."
+      ],
+      "urgent": [
+        "Sudden eye pain or decreased vision (acute angle-closure glaucoma)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Hydrochlorothiazide",
+          "url": "https://www.nhs.uk/medicines/hydrochlorothiazide/"
+        }
+      ]
+    },
+    {
+      "id": "nitroglycerin",
+      "name": "Nitroglycerin (Glyceryl Trinitrate)",
+      "aliases": [
+        "sorbitrate",
+        "angispan",
+        "nitrolingual",
+        "gtn spray"
+      ],
+      "verified": true,
+      "summary": "Nitroglycerin is a fast-acting nitrate that dilates coronary veins and arteries to instantly relieve angina chest pain during exertion.",
+      "usedFor": [
+        "Acute relief of angina pectoris",
+        "Pre-exercise angina prophylaxis"
+      ],
+      "warnings": [
+        "CRITICAL: NEVER combine with erectile dysfunction medicines (sildenafil/Viagra, tadalafil/Cialis); causes life-threatening precipitous drops in blood pressure.",
+        "Sit down before taking sublingual tablet/spray as it causes immediate dizziness and headache."
+      ],
+      "urgent": [
+        "Chest pain that does NOT improve after 2 doses spaced 5 minutes apart (call emergency 112/108 immediately - possible heart attack)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Glyceryl trinitrate",
+          "url": "https://www.nhs.uk/medicines/glyceryl-trinitrate/"
+        }
+      ]
+    },
+    {
+      "id": "gliclazide",
+      "name": "Gliclazide",
+      "aliases": [
+        "diamicron",
+        "glizid",
+        "reclide"
+      ],
+      "verified": true,
+      "summary": "Gliclazide is a well-tolerated second-generation sulfonylurea with low risk of hypoglycemia that stimulates pancreatic insulin release.",
+      "usedFor": [
+        "Type 2 diabetes glycemic control (especially when metformin alone is insufficient)"
+      ],
+      "warnings": [
+        "Take with breakfast every morning. Do not skip meals."
+      ],
+      "urgent": [
+        "Hypoglycemia: trembling, cold sweats, confusion, or fainting."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Gliclazide",
+          "url": "https://www.nhs.uk/medicines/gliclazide/"
+        }
+      ]
+    },
+    {
+      "id": "empagliflozin",
+      "name": "Empagliflozin",
+      "aliases": [
+        "jardiance",
+        "gibtulio"
+      ],
+      "verified": true,
+      "summary": "Empagliflozin is an SGLT2 inhibitor that flushes excess glucose out through urine, proven to reduce cardiovascular death and hospitalizations in heart failure.",
+      "usedFor": [
+        "Type 2 diabetes",
+        "Heart failure (reduced and preserved ejection fraction)",
+        "Chronic kidney disease"
+      ],
+      "warnings": [
+        "Maintain hydration. Watch for genital yeast infections."
+      ],
+      "urgent": [
+        "Rapid breathing, nausea, and vomiting despite normal blood glucose (euglycemic ketoacidosis)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Empagliflozin",
+          "url": "https://www.nhs.uk/medicines/empagliflozin/"
+        }
+      ]
+    },
+    {
+      "id": "linagliptin",
+      "name": "Linagliptin",
+      "aliases": [
+        "trajenta",
+        "ondero"
+      ],
+      "verified": true,
+      "summary": "Linagliptin is a DPP-4 inhibitor that can be safely used across all stages of kidney disease without any dosage reductions.",
+      "usedFor": [
+        "Type 2 diabetes in patients with normal, moderate, or severe renal impairment"
+      ],
+      "warnings": [
+        "Take once daily with or without food. Weight-neutral with very low hypoglycemia risk."
+      ],
+      "urgent": [
+        "Severe persistent abdominal pain with vomiting (pancreatitis)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Linagliptin",
+          "url": "https://www.nhs.uk/medicines/linagliptin/"
+        }
+      ]
+    },
+    {
+      "id": "teneligliptin",
+      "name": "Teneligliptin",
+      "aliases": [
+        "tenlimac",
+        "ziten",
+        "dynaglipt"
+      ],
+      "verified": true,
+      "summary": "Teneligliptin is an affordable, widely prescribed DPP-4 inhibitor in India providing 24-hour glycemic control by stabilizing incretin hormones.",
+      "usedFor": [
+        "Type 2 diabetes mellitus"
+      ],
+      "warnings": [
+        "Take once daily before or after meals."
+      ],
+      "urgent": [
+        "Severe upper abdominal pain or blistering skin rash."
+      ],
+      "sources": [
+        {
+          "label": "DailyMed: Teneligliptin",
+          "url": "https://dailymed.nlm.nih.gov/"
+        }
+      ]
+    },
+    {
+      "id": "pioglitazone",
+      "name": "Pioglitazone",
+      "aliases": [
+        "piosys",
+        "actos",
+        "pioglit"
+      ],
+      "verified": true,
+      "summary": "Pioglitazone is a thiazolidinedione (glitazone) insulin sensitizer that activates PPAR-gamma to increase muscle and fat responsiveness to natural insulin.",
+      "usedFor": [
+        "Type 2 diabetes mellitus with significant insulin resistance"
+      ],
+      "warnings": [
+        "Contraindicated in patients with active or historical congestive heart failure (can cause fluid retention)."
+      ],
+      "urgent": [
+        "Rapid unexplained weight gain, swollen ankles, or shortness of breath."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Pioglitazone",
+          "url": "https://www.nhs.uk/medicines/pioglitazone/"
+        }
+      ]
+    },
+    {
+      "id": "famotidine",
+      "name": "Famotidine",
+      "aliases": [
+        "pepcid",
+        "famocid",
+        "facid"
+      ],
+      "verified": true,
+      "summary": "Famotidine is an H2-receptor antagonist that blocks histamine on parietal cells, rapidly decreasing nighttime and mealtime acid secretion.",
+      "usedFor": [
+        "Heartburn and acid indigestion",
+        "Duodenal and gastric ulcers",
+        "Prevention of heartburn before spicy meals"
+      ],
+      "warnings": [
+        "Takes effect within 1 hour and lasts for 10-12 hours."
+      ],
+      "urgent": [
+        "Difficulty swallowing or unexplained weight loss."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Famotidine",
+          "url": "https://www.nhs.uk/medicines/famotidine/"
+        }
+      ]
+    },
+    {
+      "id": "dicyclomine",
+      "name": "Dicyclomine",
+      "aliases": [
+        "cyclopam",
+        "bentyl",
+        "meftal-spas component"
+      ],
+      "verified": true,
+      "summary": "Dicyclomine is an anticholinergic antispasmodic that relaxes smooth muscle spasms in the gastrointestinal and biliary tract.",
+      "usedFor": [
+        "Irritable bowel syndrome (IBS) abdominal cramps",
+        "Intestinal and menstrual colic",
+        "Ureteral colic spasms"
+      ],
+      "warnings": [
+        "Causes dry mouth, blurred vision, and drowsiness.",
+        "Contraindicated in glaucoma and severe urinary obstruction."
+      ],
+      "urgent": [
+        "Inability to pass urine (acute urinary retention) or eye pain."
+      ],
+      "sources": [
+        {
+          "label": "MedlinePlus: Dicyclomine",
+          "url": "https://medlineplus.gov/druginfo/meds/a684007.html"
+        }
+      ]
+    },
+    {
+      "id": "sucralfate",
+      "name": "Sucralfate",
+      "aliases": [
+        "sucrafil",
+        "carafate",
+        "pepsigard"
+      ],
+      "verified": true,
+      "summary": "Sucralfate binds to positively charged proteins in ulcer craters, forming a physical protective barrier against stomach acid, pepsin, and bile.",
+      "usedFor": [
+        "Duodenal and gastric ulcer healing",
+        "Bile reflux gastritis",
+        "Radiation proctitis"
+      ],
+      "warnings": [
+        "Take on an empty stomach 1 hour before meals and at bedtime.",
+        "Separate from other medications by at least 2 hours as it physically blocks their absorption."
+      ],
+      "urgent": [
+        "Severe constipation or intestinal obstruction."
+      ],
+      "sources": [
+        {
+          "label": "MedlinePlus: Sucralfate",
+          "url": "https://medlineplus.gov/druginfo/meds/a681049.html"
+        }
+      ]
+    },
+    {
+      "id": "lactulose",
+      "name": "Lactulose",
+      "aliases": [
+        "duphalac",
+        "livo-luk",
+        "cremalax"
+      ],
+      "verified": true,
+      "summary": "Lactulose is a synthetic non-absorbable disaccharide osmotic laxative that draws water into the colon and traps ammonia in hepatic encephalopathy.",
+      "usedFor": [
+        "Chronic constipation",
+        "Hepatic encephalopathy in liver cirrhosis"
+      ],
+      "warnings": [
+        "Can take 24-48 hours to produce a bowel movement. May cause initial bloating and gas."
+      ],
+      "urgent": [
+        "Severe persistent diarrhea causing electrolyte dehydration."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Lactulose",
+          "url": "https://www.nhs.uk/medicines/lactulose/"
+        }
+      ]
+    },
+    {
+      "id": "ursodeoxycholic-acid",
+      "name": "Ursodeoxycholic Acid (UDCA)",
+      "aliases": [
+        "udiliv",
+        "urso",
+        "ursocol"
+      ],
+      "verified": true,
+      "summary": "UDCA is a naturally occurring hydrophilic bile acid that dissolves cholesterol gallstones, protects hepatocytes, and improves biliary flow.",
+      "usedFor": [
+        "Dissolution of radiolucent cholesterol gallstones",
+        "Primary biliary cholangitis (PBC)",
+        "Non-alcoholic fatty liver disease (NAFLD)"
+      ],
+      "warnings": [
+        "Take with meals or milk. Regular liver function blood tests are required."
+      ],
+      "urgent": [
+        "Severe right upper-quadrant abdominal pain with fever (acute cholecystitis)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Ursodeoxycholic acid",
+          "url": "https://www.nhs.uk/medicines/ursodeoxycholic-acid/"
+        }
+      ]
+    },
+    {
+      "id": "loratadine",
+      "name": "Loratadine",
+      "aliases": [
+        "claritin",
+        "lorfast",
+        "alaspan"
+      ],
+      "verified": true,
+      "summary": "Loratadine is a non-drowsy 24-hour antihistamine that treats symptoms of hay fever, indoor dust allergies, and hives.",
+      "usedFor": [
+        "Allergic rhinitis",
+        "Urticaria (itchy hives)",
+        "Allergic skin reactions"
+      ],
+      "warnings": [
+        "Take once daily with or without food. Suitable for long-term seasonal allergy control."
+      ],
+      "urgent": [
+        "Severe allergic swelling of the face or mouth."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Loratadine",
+          "url": "https://www.nhs.uk/medicines/loratadine/"
+        }
+      ]
+    },
+    {
+      "id": "bilastine",
+      "name": "Bilastine",
+      "aliases": [
+        "bilaxten",
+        "bilasure",
+        "bilast"
+      ],
+      "verified": true,
+      "summary": "Bilastine is a modern non-sedating second-generation antihistamine with high H1 receptor specificity and minimal central nervous system penetration.",
+      "usedFor": [
+        "Allergic rhinoconjunctivitis",
+        "Urticaria (hives)"
+      ],
+      "warnings": [
+        "MUST be taken on an empty stomach: 1 hour before or 2 hours after meals or fruit juice (food reduces absorption by 30%)."
+      ],
+      "urgent": [
+        "Difficulty breathing or generalized swelling."
+      ],
+      "sources": [
+        {
+          "label": "DailyMed: Bilastine",
+          "url": "https://dailymed.nlm.nih.gov/"
+        }
+      ]
+    },
+    {
+      "id": "fluticasone",
+      "name": "Fluticasone (Nasal Spray)",
+      "aliases": [
+        "flonase",
+        "flomist",
+        "flohale"
+      ],
+      "verified": true,
+      "summary": "Fluticasone is an anti-inflammatory corticosteroid nasal spray that targets the root cause of allergic nasal congestion, sneezing, and runny nose.",
+      "usedFor": [
+        "Moderate to severe allergic rhinitis (seasonal and year-round)",
+        "Nasal polyps"
+      ],
+      "warnings": [
+        "Takes several days of daily use to reach full effectiveness; not an instant rescue decongestant.",
+        "Point spray nozzle slightly outward towards the ear, away from the central nasal septum, to prevent nosebleeds."
+      ],
+      "urgent": [
+        "Persistent severe nosebleeds or nasal pain."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Fluticasone nasal spray",
+          "url": "https://www.nhs.uk/medicines/fluticasone-nasal-spray/"
+        }
+      ]
+    },
+    {
+      "id": "ipratropium",
+      "name": "Ipratropium",
+      "aliases": [
+        "atrovent",
+        "ipravent"
+      ],
+      "verified": true,
+      "summary": "Ipratropium is a short-acting anticholinergic bronchodilator that blocks muscarinic receptors to open airways in COPD and severe asthma.",
+      "usedFor": [
+        "Chronic obstructive pulmonary disease (COPD) bronchospasm",
+        "Acute severe asthma exacerbations (paired with salbutamol)"
+      ],
+      "warnings": [
+        "Be careful not to spray into the eyes (can precipitate acute narrow-angle glaucoma)."
+      ],
+      "urgent": [
+        "Sudden eye pain, halos around lights, or blurred vision."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Ipratropium",
+          "url": "https://www.nhs.uk/medicines/ipratropium/"
+        }
+      ]
+    },
+    {
+      "id": "acetylcysteine",
+      "name": "Acetylcysteine (NAC)",
+      "aliases": [
+        "mucomix",
+        "fluimucil",
+        "mucinac"
+      ],
+      "verified": true,
+      "summary": "N-acetylcysteine is a mucolytic agent that breaks disulfide bonds in thick respiratory phlegm and serves as the emergency antidote for paracetamol overdose.",
+      "usedFor": [
+        "Clearing thick sticky mucus in bronchitis, COPD, and cystic fibrosis",
+        "Paracetamol toxicity antidote"
+      ],
+      "warnings": [
+        "Drink plenty of water to help thin secretions."
+      ],
+      "urgent": [
+        "Severe rash or wheezing."
+      ],
+      "sources": [
+        {
+          "label": "MedlinePlus: Acetylcysteine",
+          "url": "https://medlineplus.gov/druginfo/meds/a608035.html"
+        }
+      ]
+    },
+    {
+      "id": "fluoxetine",
+      "name": "Fluoxetine",
+      "aliases": [
+        "prozac",
+        "flunil",
+        "prodep"
+      ],
+      "verified": true,
+      "summary": "Fluoxetine is the landmark SSRI antidepressant with an activating profile and long half-life, used for depression, OCD, and bulimia.",
+      "usedFor": [
+        "Major depressive disorder",
+        "Obsessive-compulsive disorder",
+        "Bulimia nervosa",
+        "Panic disorder"
+      ],
+      "warnings": [
+        "Usually taken in the morning because it can be energizing.",
+        "Do not stop without tapering."
+      ],
+      "urgent": [
+        "Suicidal thoughts or feelings, agitation, or severe mania."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Fluoxetine",
+          "url": "https://www.nhs.uk/medicines/fluoxetine/"
+        }
+      ]
+    },
+    {
+      "id": "duloxetine",
+      "name": "Duloxetine",
+      "aliases": [
+        "cymbalta",
+        "duralast",
+        "duzela"
+      ],
+      "verified": true,
+      "summary": "Duloxetine is a Serotonin-Norepinephrine Reuptake Inhibitor (SNRI) that treats both mood disorders and chronic physical nerve pain.",
+      "usedFor": [
+        "Major depressive disorder",
+        "Diabetic neuropathic pain",
+        "Fibromyalgia",
+        "Chronic musculoskeletal lower back pain"
+      ],
+      "warnings": [
+        "Swallow capsule whole; do not chew or sprinkle pellets.",
+        "Monitor blood pressure periodically."
+      ],
+      "urgent": [
+        "Severe yellowing of eyes, dark urine, or extreme agitation."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Duloxetine",
+          "url": "https://www.nhs.uk/medicines/duloxetine/"
+        }
+      ]
+    },
+    {
+      "id": "amitriptyline",
+      "name": "Amitriptyline",
+      "aliases": [
+        "elavil",
+        "tryptomer"
+      ],
+      "verified": true,
+      "summary": "Amitriptyline is a tricyclic medication used in low doses for nerve pain, migraine prevention, and tension headaches, and in higher doses for depression.",
+      "usedFor": [
+        "Chronic nerve pain (neuropathy)",
+        "Migraine headache prevention",
+        "Tension headaches",
+        "Fibromyalgia sleep disturbances"
+      ],
+      "warnings": [
+        "Always take at bedtime because it causes noticeable drowsiness.",
+        "Causes dry mouth and constipation; drink plenty of water."
+      ],
+      "urgent": [
+        "Heart palpitations, racing heartbeat, or sudden difficulty passing urine."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Amitriptyline",
+          "url": "https://www.nhs.uk/medicines/amitriptyline/"
+        }
+      ]
+    },
+    {
+      "id": "alprazolam",
+      "name": "Alprazolam",
+      "aliases": [
+        "alprax",
+        "xanax",
+        "restyl",
+        "trika"
+      ],
+      "verified": true,
+      "summary": "Alprazolam is a short-acting, potent benzodiazepine intended for the short-term crisis management of acute panic attacks and severe anxiety.",
+      "usedFor": [
+        "Acute panic attacks",
+        "Short-term relief of severe debilitating anxiety"
+      ],
+      "warnings": [
+        "HIGH ABUSE AND DEPENDENCE POTENTIAL: Use only for acute crises or brief durations (under 2-4 weeks).",
+        "Do NOT mix with alcohol, opioids, or sleeping pills (risk of fatal respiratory arrest).",
+        "Must be tapered under medical supervision to avoid severe withdrawal."
+      ],
+      "urgent": [
+        "Extreme respiratory slowdown, blue lips, or inability to wake up."
+      ],
+      "sources": [
+        {
+          "label": "MedlinePlus: Alprazolam",
+          "url": "https://medlineplus.gov/druginfo/meds/a684001.html"
+        }
+      ]
+    },
+    {
+      "id": "zolpidem",
+      "name": "Zolpidem",
+      "aliases": [
+        "ambien",
+        "zolfresh",
+        "nitrest"
+      ],
+      "verified": true,
+      "summary": "Zolpidem is a non-benzodiazepine Z-drug hypnotic that initiates sleep quickly for individuals suffering from acute insomnia.",
+      "usedFor": [
+        "Short-term treatment of acute sleep onset insomnia"
+      ],
+      "warnings": [
+        "Take immediately before getting into bed with at least 7-8 hours remaining for sleep.",
+        "May cause complex sleep behaviors (sleepwalking, sleep-eating, sleep-driving) with complete amnesia.",
+        "Limit to short-term use (1-2 weeks) to prevent rebound insomnia."
+      ],
+      "urgent": [
+        "Complex sleep behaviors, sleepwalking, or intense confusion upon waking."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Zolpidem",
+          "url": "https://www.nhs.uk/medicines/zolpidem/"
+        }
+      ]
+    },
+    {
+      "id": "gabapentin",
+      "name": "Gabapentin",
+      "aliases": [
+        "neurontin",
+        "gabapin"
+      ],
+      "verified": true,
+      "summary": "Gabapentin is an anticonvulsant and neuropathic pain agent that dampens excessive excitatory neurotransmission in nerve pathways.",
+      "usedFor": [
+        "Neuropathic nerve pain",
+        "Post-herpetic neuralgia",
+        "Adjunctive therapy in focal epileptic seizures",
+        "Restless legs syndrome"
+      ],
+      "warnings": [
+        "Can cause drowsiness, ataxia (unsteadiness), and dizziness.",
+        "Do not stop suddenly."
+      ],
+      "urgent": [
+        "Severe rash, fever, and swollen lymph glands (DRESS syndrome)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Gabapentin",
+          "url": "https://www.nhs.uk/medicines/gabapentin/"
+        }
+      ]
+    },
+    {
+      "id": "levetiracetam",
+      "name": "Levetiracetam",
+      "aliases": [
+        "keppra",
+        "levipil"
+      ],
+      "verified": true,
+      "summary": "Levetiracetam is a first-line broad-spectrum antiepileptic medicine that binds to synaptic vesicle protein SV2A to control seizures.",
+      "usedFor": [
+        "Partial onset and generalized tonic-clonic epileptic seizures",
+        "Myoclonic seizures"
+      ],
+      "warnings": [
+        "Take consistently at exact 12-hour intervals.",
+        "May cause irritability, mood swings, or aggression in some individuals."
+      ],
+      "urgent": [
+        "Sudden emergence of suicidal thoughts or severe psychiatric changes."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Levetiracetam",
+          "url": "https://www.nhs.uk/medicines/levetiracetam/"
+        }
+      ]
+    },
+    {
+      "id": "clotrimazole",
+      "name": "Clotrimazole",
+      "aliases": [
+        "candid",
+        "canesten",
+        "clotrin"
+      ],
+      "verified": true,
+      "summary": "Clotrimazole is an imidazole antifungal applied topically or as a pessary to treat ringworm, athlete's foot, and yeast infections.",
+      "usedFor": [
+        "Tinea infections (ringworm, athlete's foot, jock itch)",
+        "Vaginal and penile candidiasis",
+        "Cutaneous thrush in skin folds"
+      ],
+      "warnings": [
+        "Continue applying for 1-2 weeks after symptoms disappear to prevent fungal relapse."
+      ],
+      "urgent": [
+        "Severe stinging, blistering, or spreading redness on application."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Clotrimazole",
+          "url": "https://www.nhs.uk/medicines/clotrimazole/"
+        }
+      ]
+    },
+    {
+      "id": "mupirocin",
+      "name": "Mupirocin",
+      "aliases": [
+        "bactroban",
+        "t-bact",
+        "mupimet"
+      ],
+      "verified": true,
+      "summary": "Mupirocin is a topical antibiotic ointment highly effective against Staphylococcus aureus and Streptococcus in skin wounds.",
+      "usedFor": [
+        "Impetigo (bacterial skin infection)",
+        "Folliculitis",
+        "Secondary infected cuts and scrapes",
+        "Nasal MRSA eradication"
+      ],
+      "warnings": [
+        "For external skin application only. Avoid contact with eyes."
+      ],
+      "urgent": [
+        "Severe local dermatitis or swelling."
+      ],
+      "sources": [
+        {
+          "label": "MedlinePlus: Mupirocin",
+          "url": "https://medlineplus.gov/druginfo/meds/a688004.html"
+        }
+      ]
+    },
+    {
+      "id": "folic-acid",
+      "name": "Folic Acid (Vitamin B9)",
+      "aliases": [
+        "folvite",
+        "folvite 5",
+        "vitamin b9"
+      ],
+      "verified": true,
+      "summary": "Folic acid is synthetic Vitamin B9 crucial for red blood cell formation and preventing neural tube defects during early pregnancy.",
+      "usedFor": [
+        "Periconceptional neural tube defect prevention in pregnancy",
+        "Folate deficiency anemia",
+        "Methotrexate toxicity counteraction"
+      ],
+      "warnings": [
+        "Recommended for all women planning pregnancy (400 mcg daily) through the 12th week of pregnancy."
+      ],
+      "urgent": [
+        "Extremely safe vitamin; seek advice if unexplained numbness in extremities occurs."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Folic acid",
+          "url": "https://www.nhs.uk/medicines/folic-acid/"
+        }
+      ]
+    },
+    {
+      "id": "ferrous-ascorbate-folic-acid",
+      "name": "Ferrous Ascorbate + Folic Acid",
+      "aliases": [
+        "orofer-xt",
+        "livogen-xt",
+        "feronia-xt",
+        "iron supplement"
+      ],
+      "verified": true,
+      "summary": "An easily absorbed iron supplement combined with vitamin C (ascorbate) and folic acid to restore hemoglobin levels in iron deficiency.",
+      "usedFor": [
+        "Iron deficiency anemia",
+        "Pregnancy and lactation iron supplementation",
+        "Post-blood loss recovery"
+      ],
+      "warnings": [
+        "Commonly turns stools a harmless dark black/green color.",
+        "Take on an empty stomach with citrus juice for best absorption (or with food if nausea occurs).",
+        "Do NOT take within 2 hours of tea, coffee, milk, calcium, or antacids."
+      ],
+      "urgent": [
+        "Accidental ingestion by young children (iron overdose is a pediatric emergency)."
+      ],
+      "sources": [
+        {
+          "label": "NHS: Iron deficiency anemia",
+          "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/"
+        }
+      ]
+    }
+  ],
+  "gx": [
+    {
+      "s": "Paracetamol",
+      "alt": [
+        "acetaminophen"
+      ],
+      "g": "Pain and fever reliever",
+      "b": [
+        "Dolo",
+        "Crocin",
+        "Calpol",
+        "Pacimol",
+        "Tylenol"
+      ]
+    },
+    {
+      "s": "Ibuprofen",
+      "g": "Anti-inflammatory painkiller (an NSAID)",
+      "b": [
+        "Brufen",
+        "Ibugesic",
+        "Advil",
+        "Nurofen"
+      ]
+    },
+    {
+      "s": "Ibuprofen + Paracetamol",
+      "c": 1,
+      "g": "Combination painkiller (NSAID + paracetamol)",
+      "b": [
+        "Combiflam",
+        "Ibugesic Plus"
+      ]
+    },
+    {
+      "s": "Diclofenac",
+      "g": "Anti-inflammatory painkiller (an NSAID)",
+      "b": [
+        "Voveran",
+        "Voltaren",
+        "Dynapar"
+      ]
+    },
+    {
+      "s": "Metformin",
+      "g": "Blood-sugar-lowering medicine",
+      "b": [
+        "Glycomet",
+        "Glucophage",
+        "Gluformin"
+      ]
+    },
+    {
+      "s": "Glimepiride",
+      "g": "Blood-sugar-lowering medicine (a sulfonylurea)",
+      "b": [
+        "Amaryl",
+        "Glimstar"
+      ]
+    },
+    {
+      "s": "Sitagliptin",
+      "g": "Blood-sugar-lowering medicine (a DPP-4 inhibitor)",
+      "b": [
+        "Januvia",
+        "Zita"
+      ]
+    },
+    {
+      "s": "Amoxicillin",
+      "g": "Penicillin-type antibiotic",
+      "b": [
+        "Mox",
+        "Novamox",
+        "Amoxil"
+      ]
+    },
+    {
+      "s": "Amoxicillin + Clavulanic acid",
+      "c": 1,
+      "g": "Combination antibiotic",
+      "b": [
+        "Augmentin",
+        "Clavam",
+        "Moxclav"
+      ]
+    },
+    {
+      "s": "Azithromycin",
+      "g": "Macrolide antibiotic",
+      "b": [
+        "Azithral",
+        "Azee",
+        "Zithromax"
+      ]
+    },
+    {
+      "s": "Ciprofloxacin",
+      "g": "Fluoroquinolone antibiotic",
+      "b": [
+        "Ciplox",
+        "Cifran"
+      ]
+    },
+    {
+      "s": "Cefixime",
+      "g": "Cephalosporin antibiotic",
+      "b": [
+        "Taxim-O",
+        "Zifi"
+      ]
+    },
+    {
+      "s": "Cetirizine",
+      "g": "Antihistamine (for allergy)",
+      "b": [
+        "Cetzine",
+        "Okacet",
+        "Alerid",
+        "Zyrtec"
+      ]
+    },
+    {
+      "s": "Levocetirizine",
+      "g": "Antihistamine (for allergy)",
+      "b": [
+        "Levocet",
+        "Vozet",
+        "Xyzal"
+      ]
+    },
+    {
+      "s": "Fexofenadine",
+      "g": "Antihistamine (for allergy)",
+      "b": [
+        "Allegra",
+        "Telfast"
+      ]
+    },
+    {
+      "s": "Montelukast",
+      "g": "Allergy and asthma preventer (a leukotriene blocker)",
+      "b": [
+        "Montair",
+        "Singulair",
+        "Montek"
+      ]
+    },
+    {
+      "s": "Montelukast + Levocetirizine",
+      "c": 1,
+      "g": "Combination for allergy and asthma",
+      "b": [
+        "Montair LC",
+        "Montek LC"
+      ]
+    },
+    {
+      "s": "Pantoprazole",
+      "g": "Stomach acid reducer (a PPI)",
+      "b": [
+        "Pan",
+        "Pantocid",
+        "Pantop",
+        "Protonix"
+      ]
+    },
+    {
+      "s": "Omeprazole",
+      "g": "Stomach acid reducer (a PPI)",
+      "b": [
+        "Omez",
+        "Prilosec"
+      ]
+    },
+    {
+      "s": "Rabeprazole",
+      "g": "Stomach acid reducer (a PPI)",
+      "b": [
+        "Razo",
+        "Rabeloc"
+      ]
+    },
+    {
+      "s": "Esomeprazole",
+      "g": "Stomach acid reducer (a PPI)",
+      "b": [
+        "Nexium",
+        "Sompraz"
+      ]
+    },
+    {
+      "s": "Domperidone",
+      "g": "Anti-sickness medicine that helps the gut move",
+      "b": [
+        "Domstal",
+        "Motilium"
+      ]
+    },
+    {
+      "s": "Ondansetron",
+      "g": "Anti-sickness medicine",
+      "b": [
+        "Emeset",
+        "Ondem",
+        "Zofran"
+      ]
+    },
+    {
+      "s": "Loperamide",
+      "g": "Anti-diarrhoea medicine",
+      "b": [
+        "Eldoper",
+        "Imodium"
+      ]
+    },
+    {
+      "s": "Atorvastatin",
+      "g": "Cholesterol-lowering medicine (a statin)",
+      "b": [
+        "Atorva",
+        "Lipitor",
+        "Storvas",
+        "Tonact"
+      ]
+    },
+    {
+      "s": "Rosuvastatin",
+      "g": "Cholesterol-lowering medicine (a statin)",
+      "b": [
+        "Rosuvas",
+        "Crestor",
+        "Rozavel"
+      ]
+    },
+    {
+      "s": "Amlodipine",
+      "g": "Blood pressure medicine (a calcium-channel blocker)",
+      "b": [
+        "Amlong",
+        "Norvasc",
+        "Amlokind",
+        "Stamlo"
+      ]
+    },
+    {
+      "s": "Telmisartan",
+      "g": "Blood pressure medicine (an ARB)",
+      "b": [
+        "Telma",
+        "Micardis",
+        "Telmikind"
+      ]
+    },
+    {
+      "s": "Losartan",
+      "g": "Blood pressure medicine (an ARB)",
+      "b": [
+        "Losar",
+        "Repace",
+        "Cozaar"
+      ]
+    },
+    {
+      "s": "Atenolol",
+      "g": "Beta blocker (heart and blood pressure)",
+      "b": [
+        "Aten",
+        "Tenormin"
+      ]
+    },
+    {
+      "s": "Metoprolol",
+      "g": "Beta blocker (heart and blood pressure)",
+      "b": [
+        "Metolar",
+        "Betaloc",
+        "Seloken"
+      ]
+    },
+    {
+      "s": "Aspirin (low strength)",
+      "alt": [
+        "aspirin",
+        "ecosprin"
+      ],
+      "g": "Blood-thinning (antiplatelet) medicine",
+      "b": [
+        "Ecosprin"
+      ]
+    },
+    {
+      "s": "Clopidogrel",
+      "g": "Blood-thinning (antiplatelet) medicine",
+      "b": [
+        "Plavix",
+        "Clopitab",
+        "Deplatt"
+      ]
+    },
+    {
+      "s": "Levothyroxine",
+      "g": "Thyroid hormone replacement",
+      "b": [
+        "Thyronorm",
+        "Eltroxin",
+        "Thyrox"
+      ]
+    },
+    {
+      "s": "Salbutamol",
+      "alt": [
+        "albuterol"
+      ],
+      "g": "Reliever inhaler for asthma and COPD",
+      "b": [
+        "Asthalin",
+        "Ventolin"
+      ]
+    },
+    {
+      "s": "Calcium + Vitamin D3",
+      "c": 1,
+      "alt": [
+        "calcium"
+      ],
+      "g": "Supplement",
+      "b": [
+        "Shelcal",
+        "Calcimax"
+      ]
+    },
+    {
+      "s": "Cholecalciferol (vitamin D3)",
+      "alt": [
+        "vitamin d",
+        "vitamin d3"
+      ],
+      "g": "Vitamin supplement",
+      "b": [
+        "Uprise-D3",
+        "Calcirol",
+        "D-Rise"
+      ]
+    }
+  ]
+}
